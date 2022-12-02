@@ -21,8 +21,8 @@
 - title: Loans
   url: "docs/loans"
   links:          
-    - title: "Intro Loan"
-      url: "docs/loans/elysysloanstest"
+    - title: "INVAggregateDeposit.Page"
+      url: "docs/loans/INVAggregateDeposit.Page"
     - title: "Tags Page"
       url: "tags"
 - title: "Extras"
