@@ -14,19 +14,17 @@
       url: "docs/versioning"
     - title: "About"
       url: "about"
-    - title: "Page loans"
-      url: "loans"
     - title: "News"
       url: "news"
 - title: Loans
   url: "docs/loans"
-  links:          
-    - title: "INVAggregateDeposit.Page"
+  links:
+    - title: "Loans"
+      url: "docs/loans"            
+    - title: "Aggregate Deposit"
       url: "docs/loans/INVAggregateDeposit.Page"
-    - title: "NAVCashAboutCard"
+    - title: "About Card"
       url: "docs/loans/NAVCashAboutCard.Page"
-    - title: "Tags Page"
-      url: "tags"
 - title: "Extras"
   url: "docs/extras"
   links:
