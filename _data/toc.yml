@@ -20,9 +20,9 @@
       url: "news"
 - title: Loans
   url: "docs/loans"      
-    - title: Intro Loan
+    - title: "Intro Loan"
       url: "docs/loans/elysysloanstest"
-    - title: Tags Page
+    - title: "Tags Page"
       url: "tags"
 - title: "Extras"
   url: "docs/extras"
