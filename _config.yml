@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Elysys Docs
+title: Elysys
 email: Info@elysys.com
 author: Elysys SARL
 description: > # this means to ignore newlines until "baseurl:"
