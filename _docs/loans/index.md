@@ -1,23 +1,15 @@
 ﻿---
-title: Elysys Loans
-description: Elysys Loans
-author: 
-ms.service : 
+title: Loans Intro
+description: Loans introducation
+tags:
+ - Loan
 ---
 
-# Elysys Loans
+# Loan
 
-## Summary
+Extras include other integrations that aren't relevant to style or customization,
+but can further enhance your documentation pages. Currently, we have support
+for adding interactive quizzes.
 
+som links here
 
-
-## Fields
-<!-- You need to leave a space betwenn | your text and | -->
-
-| Name | Description |
-| ---- | ---- |
-| Loan & Deposit Version |   |
-| Server Name |   |
-| Database Name |   |
-| Company Name |   |
-| User ID |   |
