@@ -9,8 +9,6 @@ ms.service :
 
 ## Summary
 
-
-
 ## Fields
 <!-- You need to leave a space betwenn | your text and | -->
 
