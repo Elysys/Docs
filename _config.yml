@@ -36,7 +36,7 @@ baseurl: "/Docs" # the subpath of your site, e.g. /blog
 
 # Optional
 #twitter: vsoch
-linkedin: "https://www.linkedin.com/company/elysys/"
+linkedin: "company/elysys/"
 #dockerhub: vanessa
 
 # These options are used to configure the locations of your version history when you want to serve versioned documents
@@ -61,7 +61,7 @@ version_params:
 feedback: true
 
 # Link to a privacy policy in footer, uncomment and define if wanted
-# privacy: https://domain.com/privacy
+privacy: https://elysys.com
 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
