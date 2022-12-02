@@ -1,9 +1,9 @@
 ﻿---
-title: Getting Started
+title: Loans
 tags: 
  - Loans
  - Deposits
-description: Getting started with Docsy Jekyll
+description: How to use Loans
 ---
 
 <!--- #![Text, logo Description automatically generated with medium confidence](Aspose.Words.d55efba7-ee5d-4ac2-a23a-5f74477c2752.001.png) --->

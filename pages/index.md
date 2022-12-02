@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Docsy Jekyll Theme
+title: Elysys Docs
 permalink: /
 ---
 
-# Welcome to Docsy Jekyll
+# Welcome to Elysys Docs
 
 This is a starter template for a docsy jekyll theme.
 
-![assets/img/docsy-jekyll.png](assets/img/docsy-jekyll.png)
+![assets/img/docsy-jekyll.png](assets/img/LoanCard.png)
 
 ## Purpose
 
