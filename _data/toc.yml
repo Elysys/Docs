@@ -19,7 +19,7 @@
     - title: "News"
       url: "news"
 - title: Loans
-  url: "docs/loans/index.html"
+  url: "docs/loans/"
   links:          
     - title: "INVAggregateDeposit.Page"
       url: "docs/loans/INVAggregateDeposit.Page"
