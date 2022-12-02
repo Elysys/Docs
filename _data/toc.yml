@@ -25,6 +25,10 @@
       url: "docs/loans/INVAggregateDeposit.Page"
     - title: "About Card"
       url: "docs/loans/NAVCashAboutCard.Page"
+    - title: "Reverse Entries"
+      url: "docs/loans/NAVCashReverseEntries.Page"
+    - title: "Update Tranche LE"
+      url: "docs/loans/NAVCashUpdateTrancheLE.Page"
 - title: "Extras"
   url: "docs/extras"
   links:
