@@ -17,6 +17,6 @@ ms.service :
 | Name | Description |
 | ---- | ---- |
 | Entry No. |   |
-| Transaction No. |    |
+| Transaction No. |   |
 | Intial Tranche |   |
 | New Tranche |   |
