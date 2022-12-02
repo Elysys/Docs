@@ -19,7 +19,8 @@
     - title: "News"
       url: "news"
 - title: Loans
-  url: "docs/loans"      
+  url: "docs/loans"
+  links:          
     - title: "Intro Loan"
       url: "docs/loans/elysysloanstest"
     - title: "Tags Page"
