@@ -31,6 +31,8 @@
       url: "docs/loans/NAVCashUpdateTrancheLE.Page"
     - title: "Ivan Test"
       url: "docs/loans/Ivan"
+    - title: "Loans and Deposits"
+      url: "docs/loans/loansanddeposits"
 - title: "Extras"
   url: "docs/extras"
   links:
