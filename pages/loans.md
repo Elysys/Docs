@@ -1,5 +1,6 @@
 ﻿---
-title: Loans
+title: loans
+permalink: /loans/
 tags: 
  - Loans
  - Deposits
