@@ -19,11 +19,11 @@
     - title: "News"
       url: "news"
 - title: Loans
-  url: "docs/loans"
+  url: "docs/loans/index"
   links:          
     - title: "INVAggregateDeposit.Page"
       url: "docs/loans/INVAggregateDeposit.Page"
-    - title: "INVAggregateDeposit.Page"
+    - title: "NAVCashAboutCard"
       url: "docs/loans/NAVCashAboutCard.Page"
     - title: "Tags Page"
       url: "tags"
