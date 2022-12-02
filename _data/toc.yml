@@ -10,16 +10,13 @@
           url: "docs/getting-started#development"
         - title: Customization
           url: "docs/getting-started#customization"
-    - title: Elysys Loans
-      url: "docs/elysysloanstest"
-      children:
-        - title: Features
-          url: "docs/elysysloanstest#elysysloanstest"
+    - title: Loans
+      url: "docs/loans"
     - title: Versioning
       url: "docs/versioning"
     - title: "About"
       url: "about"
-    - title: "loans"
+    - title: "Page loans"
       url: "loans"
     - title: "News"
       url: "news"
