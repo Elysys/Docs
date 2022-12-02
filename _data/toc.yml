@@ -12,7 +12,7 @@
           url: "docs/getting-started#customization"
     - title: Elysys Loans
       url: "docs/elysysloanstest"
-       children:
+      children:
         - title: Features
           url: "docs/elysysloanstest#elysysloanstest"
     - title: Versioning
