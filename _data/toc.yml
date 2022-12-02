@@ -10,8 +10,6 @@
           url: "docs/getting-started#development"
         - title: Customization
           url: "docs/getting-started#customization"
-    - title: Loans
-      url: "docs/loans"
     - title: Versioning
       url: "docs/versioning"
     - title: "About"
@@ -20,6 +18,12 @@
       url: "loans"
     - title: "News"
       url: "news"
+- title: Loans
+  url: "docs/loans"      
+    - title: Intro Loan
+      url: "docs/loans/elysysloanstest"
+    - title: Tags Page
+      url: "tags"
 - title: "Extras"
   url: "docs/extras"
   links:
