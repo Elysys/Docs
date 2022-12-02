@@ -1,11 +1,23 @@
 ﻿---
-title: Getting Started
-tags: 
- - Loans
- - Deposits
-description: Getting started with Elysys Loans
+title: Elysys Loans
+description: 
+author: 
+ms.service : 
 ---
 
-# Elysys Loans Module	
+# Elysys Loans
 
-This document describes the standard functionalities of the Loans module of Elysys Loans for Microsoft Dynamics Business Central, as well as the required setup. A loan can be either a lending or a borrowing. Three types of loans can be managed within the system:
+## Summary
+
+
+
+## Fields
+<!-- You need to leave a space betwenn | your text and | -->
+
+| Name | Description |
+| ---- | ---- |
+| Loan & Deposit Version |   |
+| Server Name |   |
+| Database Name |   |
+| Company Name |   |
+| User ID |   |

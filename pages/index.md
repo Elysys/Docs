@@ -8,7 +8,7 @@ permalink: /
 
 This is a starter template for a docsy jekyll theme.
 
-![assets/img/docsy-jekyll.png](assets/img/LoanCard.png)
+![assets/img/LoanCard.png](assets/img/LoanCard.png)
 
 ## Purpose
 
