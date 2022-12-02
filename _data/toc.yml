@@ -23,6 +23,8 @@
   links:          
     - title: "INVAggregateDeposit.Page"
       url: "docs/loans/INVAggregateDeposit.Page"
+    - title: "INVAggregateDeposit.Page"
+      url: "docs/loans/NAVCashAboutCard.Page"
     - title: "Tags Page"
       url: "tags"
 - title: "Extras"
