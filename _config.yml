@@ -29,10 +29,10 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://docs.elysys.com" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/elysys/docs"
-github_user: "Elysys"
-github_repo: "Elysys"
-github_branch: "master"
+#repo: "https://github.com/elysys/docs"
+#github_user: "Elysys"
+#github_repo: "Elysys"
+#github_branch: "master"
 
 # Optional
 #twitter: vsoch
