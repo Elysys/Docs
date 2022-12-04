@@ -17,10 +17,8 @@
     - title: "News"
       url: "news"
 - title: Loans
-  url: "docs/loans"
+  url: "docs/loans/loansanddeposits"
   links:
-    - title: "Loans"
-      url: "docs/loans"            
     - title: "Aggregate Deposit"
       url: "docs/loans/INVAggregateDeposit.Page"
     - title: "About Card"
@@ -29,10 +27,6 @@
       url: "docs/loans/NAVCashReverseEntries.Page"
     - title: "Update Tranche LE"
       url: "docs/loans/NAVCashUpdateTrancheLE.Page"
-    - title: "Ivan Test"
-      url: "docs/loans/Ivan"
-    - title: "Loans and Deposits"
-      url: "docs/loans/loansanddeposits"
 - title: "Extras"
   url: "docs/extras"
   links:
