@@ -10,14 +10,14 @@
           url: "docs/loans/loansanddeposits#Disbursements" 
         - title: "Fees"
           url: "docs/loans/loansanddeposits#Fees" 
-    - title: "Aggregate Deposit"
-      url: "docs/loans/INVAggregateDeposit.Page"
-    - title: "About Card"
-      url: "docs/loans/NAVCashAboutCard.Page"
-    - title: "Reverse Entries"
-      url: "docs/loans/NAVCashReverseEntries.Page"
-    - title: "Update Tranche LE"
-      url: "docs/loans/NAVCashUpdateTrancheLE.Page"
+    - title: "General Setup"
+      url: "docs/loans/INMGeneralSetup"
+    - title: "Loan Card"
+      url: "docs/loans/INMLoanCard"
+    - title: "No Series Setup"
+      url: "docs/loans/INMNoSerieSetup"
+    - title: "Posting Group"
+      url: "docs/loans/INMPostingGroup"
 - title: Documentation
   url: docs
   links:

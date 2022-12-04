@@ -27,7 +27,7 @@ ms.service :
 | Loan Currency Code | Specifies the currency of the Loan. It is defaulted to the Counterparty Account Currency. |
 | Cash Loan | Specifies if the loan amount should be disbursed to the Customer in cash. |
 | Cash Bank Account | Specifies from which current Bank Account the cash should be disbursed to the Customer. |
-| Colateral Investment | Specifies an investment which is used as collateral against the loan. |
+| Collateral Investment | Specifies an investment which is used as collateral against the loan. |
 | Closed | Specifies if the Loan is closed. |
 | Renewed | Specifies if the loan has been involved in a loan renewal. |
 | Cancelled | Specifies if the loan has been cancelled. A loan can be cancelled only once all transactions have been reversed. |

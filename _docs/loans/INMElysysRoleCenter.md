@@ -78,7 +78,7 @@ ms.service :
 | Client Portfolio | Executes the Client Portfolio action. |
 | Fund Manager | Executes the Fund Manager action. |
 | Custodians | Executes the Custodians action. |
-| Loans and Deposits Intrument Type | Executes the Loans and Deposits Intrument Type action. |
+| Loans and Deposits Instrument Type | Executes the Loans and Deposits Instrument Type action. |
 | Loans and Deposits Posting Group | Executes the Loans and Deposits Posting Group action. |
 | Loans and Deposits Interest Rates | Executes the Loans and Deposits Interest Rates action. |
 | Loans and Deposits Calendar | Executes the Loans and Deposits Calendar action. |
