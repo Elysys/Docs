@@ -18,6 +18,8 @@
       url: "docs/loans/INMNoSerieSetup"
     - title: "Posting Group"
       url: "docs/loans/INMPostingGroup"
+    - title: "Ledger Entries"
+      url: "docs/loans/INMLedgerEntries"
 - title: Documentation
   url: docs
   links:
