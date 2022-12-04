@@ -5,10 +5,9 @@ permalink: /news/
 
 # News
 
-<p>
 Here you can find news about the Elysys Docs. 
-New items will be shown here also important news you can find here. 
-</p>
+
+New items will be shown here also important news can be found here. 
 
 <br>
 
