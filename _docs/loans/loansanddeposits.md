@@ -2,7 +2,7 @@
 title: loansadndeposits
 tags: 
  - Loans
- - Deposits
+ - Setup
 description: How to use Loans
 ---
 
