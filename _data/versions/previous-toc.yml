@@ -1,15 +1,26 @@
+- title: Loans
+  url: "docs/loans/loansanddeposits"
+  links:
+    - title: "Overview"
+      url: "docs/loans/loansanddeposits"
+      children:
+        - title: "NAVCash General Setup"
+          url: "docs/loans/loansanddeposits#NAVCash-General-Setup" 
+        - title: "Disbursements"
+          url: "docs/loans/loansanddeposits#Disbursements" 
+        - title: "Fees"
+          url: "docs/loans/loansanddeposits#Fees" 
+    - title: "Aggregate Deposit"
+      url: "docs/loans/INVAggregateDeposit.Page"
+    - title: "About Card"
+      url: "docs/loans/NAVCashAboutCard.Page"
+    - title: "Reverse Entries"
+      url: "docs/loans/NAVCashReverseEntries.Page"
+    - title: "Update Tranche LE"
+      url: "docs/loans/NAVCashUpdateTrancheLE.Page"
 - title: Documentation
   url: docs
   links:
-    - title: "Getting Started"
-      url: "docs/getting-started"
-      children:
-        - title: Features
-          url: "docs/getting-started#getting-started"
-        - title: Development
-          url: "docs/getting-started#development"
-        - title: Customization
-          url: "docs/getting-started#customization"
     - title: "About"
       url: "about"
     - title: "News"
