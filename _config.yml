@@ -61,7 +61,7 @@ version_params:
 feedback: true
 
 # Link to a privacy policy in footer, uncomment and define if wanted
-privacy: https://elysys.com
+privacy: https://www.elysys.com/
 
 # google-analytics: UA-XXXXXXXXXX
 # Image and (square) dimension for logo (don't start with /)
