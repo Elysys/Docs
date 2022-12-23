@@ -27,10 +27,6 @@
       url: "about"
     - title: "News"
       url: "news"
-- title: TestIvan
-  url: "docs/loans/IvanTest.md"
-- title: TestIvan2
-  url: "docs/loans/IvanTest.md"  
 - title: "Extras"
   url: "docs/extras"
   links:
