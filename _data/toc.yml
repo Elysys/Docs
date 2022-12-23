@@ -27,8 +27,8 @@
       url: "about"
     - title: "News"
       url: "news"
-- title: Loans
-  url: "docs/loans/loansanddeposits"
+- title: TestIvan
+  url: "docs/loans/IvanTest.md"
 - title: "Extras"
   url: "docs/extras"
   links:
