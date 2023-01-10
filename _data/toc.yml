@@ -20,6 +20,8 @@
       url: "docs/loans/INMPostingGroup"
     - title: "Ledger Entries"
       url: "docs/loans/INMLedgerEntries"
+    - title: "Stefan Page"
+      url: "docs/loans/Stefan"
 - title: Documentation
   url: docs
   links:
