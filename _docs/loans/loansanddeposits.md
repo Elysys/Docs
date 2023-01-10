@@ -15,7 +15,6 @@ This document describes the standard functionalities of the Loans module of Elys
 - Fixed capital repayment
 - Fixed capital and interest repayment
 
-
 ## NAVCash General Setup
 
 The user must make sure the following settings had been set up: 
