@@ -4,7 +4,7 @@ title: Elysys Docs
 permalink: /
 ---
 
-# Welcome to Elysys Docs
+# Welcome to Elysys Docs and Stefan
 
 This is a home of all Elysys documentation aimed at our users.
 
