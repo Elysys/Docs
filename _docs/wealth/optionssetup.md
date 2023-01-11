@@ -56,7 +56,7 @@ For each of the Investment type belonging to those assets class a nominal accoun
 
 ## **Settlement Posting Group**
 
-![/assets/img/ElysysLoansLogo.png](../../assets/img/SettlmentPostingGroup.png)
+![/assets/img/ElysysLoansLogo.png](../../assets/img/SettlementPostingGroup.png)
 
 - *PnL Realised Forex Gain/Loss:* Specifies the Profit and Loss account used to book realised forex gain and loss.
 ## **Option Card**
