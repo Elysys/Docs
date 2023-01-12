@@ -1,5 +1,8 @@
 - title: Options
-  url: "docs/wealth/optionssetup"
+  url: "docs/wealth/options_info"
+  links:
+    - title: "Overview"
+      url: "docs/wealth/options_info"  
 - title: Loans
   url: "docs/loans/loansanddeposits"
   links:
@@ -12,23 +15,11 @@
           url: "docs/loans/loansanddeposits#Disbursements" 
         - title: "Fees"
           url: "docs/loans/loansanddeposits#Fees" 
-    - title: "General Setup"
-      url: "docs/loans/INMGeneralSetup"
-    - title: "Loan Card"
-      url: "docs/loans/INMLoanCard"
-    - title: "No Series Setup"
-      url: "docs/loans/INMNoSerieSetup"
-    - title: "Posting Group"
-      url: "docs/loans/INMPostingGroup"
-    - title: "Ledger Entries"
-      url: "docs/loans/INMLedgerEntries"
 - title: Documentation
   url: docs
   links:
     - title: "About"
       url: "about"
-    - title: "News"
-      url: "news"
 - title: "Extras"
   url: "docs/extras"
   links:
