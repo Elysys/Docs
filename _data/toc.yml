@@ -11,10 +11,6 @@
       children:
         - title: "NAVCash General Setup"
           url: "docs/loans/loansanddeposits#NAVCash-General-Setup" 
-        - title: "Disbursements"
-          url: "docs/loans/loansanddeposits#Disbursements" 
-        - title: "Fees"
-          url: "docs/loans/loansanddeposits#Fees" 
 - title: Documentation
   url: docs
   links:
@@ -25,5 +21,3 @@
   links:
     - title: Quizzes
       url: "docs/extras/example-quiz"
-    - title: Tags Page
-      url: "tags"
