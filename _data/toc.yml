@@ -12,10 +12,10 @@
         - title: "NAVCash General Setup"
           url: "docs/loans/loansanddeposits#NAVCash-General-Setup" 
 - title: EBG
-  url: "docs/wealth/EBG User Guide"
+  url: "docs/ebg/EBG User Guide"
   links:
     - title: "EBG User Guide"
-      url: "docs/wealth/EBG User Guide"  
+      url: "docs/ebg/EBG User Guide"  
 - title: Documentation
   url: docs
   links:
