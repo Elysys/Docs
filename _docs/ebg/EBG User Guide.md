@@ -16,7 +16,7 @@ Flow Diagram
 
 **Components:**
 
-1. Connection Setup
+## 1. Connection Setup
 
 To connect business central with the service please search for the page “EBG Connection Setup”.
 
@@ -26,7 +26,7 @@ Once filled in you could use the “Test Connection” button to control the net
 
 ![/assets/img/EBGSetupPage.png](../../assets/img/EBGSetupPage.png)
 
-2. Services List
+## 2. Services List
 
 Once the connection is set, you will be able to see the list of available services the provider have setup for you, using the page “EBG Services”.
 
@@ -34,11 +34,11 @@ Opening this page can took few seconds as the system is downloading the services
 
 ![/assets/img/EBGServicePage.jpeg](../../assets/img/EBGServiceSetupPage.jpeg)
 
-3. Setup a service
+## 3. Setup a service
 
 In order to be able to run a service, it is needed to specify the company you want it to run the service on. Click on the column “Selected Company” to open company list.
 
-4. Setup Bank Interface 
+## 4. Setup Bank Interface 
 
 Bank Interface need additional setup once the company have been selected. Open the configuration page using “Setup” button from the Service list 
 
@@ -46,12 +46,14 @@ Bank Interface need additional setup once the company have been selected. Open t
 
 1. **Transaction Date Filter** : Specify a starting date to begin the transaction import, or blank for no filter. When the interface is executed, only transaction date >= this value will be proceed.
 1. **Safekeeping account mapping:** Specify Business Central mapping with the accounts provided by the bank. Those are not mandatory but highly recommended to reduce manual input.
-1) *“Destination Company”* is the company used to import transaction related to the account
-1) *“Portfolio Code”* is the Elysys Wealth Portfolio to affect investment transaction on Front Office
-1) *“Bank Account”* is the Business Central Bank Account to be affected on cash movement in General journal
-1) *“Inv. Journal Template/Batch”* is used to specify in what journal the investment transaction will be imported. Front Office Only
-1) *“Gen. Journal Template/Batch”* is used to specify in what general journal cash operations will be imported
-5. Asset Class & Transaction Type Mapping
+ 1) “Destination Company” is the company used to import transaction related to the account
+2) *“Portfolio Code”* is the Elysys Wealth Portfolio to affect investment transaction on Front Office
+3) *“Bank Account”* is the Business Central Bank Account to be affected on cash movement in General journal
+4) *“Inv. Journal Template/Batch”* is used to specify in what journal the investment transaction will be imported. Front Office Only
+5) *“Gen. Journal Template/Batch”* is used to specify in what general journal cash operations will be imported
+
+
+## 5. Asset Class & Transaction Type Mapping
 
 Specify the relation between specific codes used by Banks and asset class or transaction type in Business Central and Elysys Wealth.
 
@@ -81,7 +83,8 @@ Gen. Journal Line are imported as following :
 - Bal. Account Type = “G/L Account”
 - Bal. Account No. = “G/L Account No.” set on “Transaction Type Mapping” related to the operation
 - Amount, Date and Description = as provided on the “Cash Operation” from the bank
-6. Execute & Schedule
+
+## 6. Execute & Schedule
 
 On the “EBG Services” list page, you can execute a service manually. The system will then try to integrate data from the service in Business Central. You can use “Execute” button to try a service manually.
 
