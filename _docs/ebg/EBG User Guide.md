@@ -58,7 +58,7 @@ Bank Interface need additional setup once the company have been selected. Open t
 
 Specify the relation between specific codes used by Banks and asset class or transaction type in Business Central and Elysys Wealth.
 
-Asset Class Mapping: 
+**Asset Class Mapping:** 
 
 It is used to import investment card from the “security information” provided by the bank
 
