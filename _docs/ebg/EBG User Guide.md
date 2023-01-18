@@ -46,11 +46,12 @@ Bank Interface need additional setup once the company have been selected. Open t
 
 1. **Transaction Date Filter** : Specify a starting date to begin the transaction import, or blank for no filter. When the interface is executed, only transaction date >= this value will be proceed.
 1. **Safekeeping account mapping:** Specify Business Central mapping with the accounts provided by the bank. Those are not mandatory but highly recommended to reduce manual input.
- 1) “Destination Company” is the company used to import transaction related to the account
-2) *“Portfolio Code”* is the Elysys Wealth Portfolio to affect investment transaction on Front Office
-3) *“Bank Account”* is the Business Central Bank Account to be affected on cash movement in General journal
-4) *“Inv. Journal Template/Batch”* is used to specify in what journal the investment transaction will be imported. Front Office Only
-5) *“Gen. Journal Template/Batch”* is used to specify in what general journal cash operations will be imported
+
+1) “Destination Company” is the company used to import transaction related to the account
+2) “Portfolio Code” is the Elysys Wealth Portfolio to affect investment transaction on Front Office
+3) “Bank Account” is the Business Central Bank Account to be affected on cash movement in General journal
+4) “Inv. Journal Template/Batch” is used to specify in what journal the investment transaction will be imported. Front Office Only
+5) “Gen. Journal Template/Batch” is used to specify in what general journal cash operations will be imported
 
 
 ## 5. Asset Class & Transaction Type Mapping
@@ -65,7 +66,9 @@ It is used to import investment card from the “security information” provide
 
 During the import, the process look at each “Security Information”, verify if the investment card already exists in Business Central, then create it if it does not exists yet using Asset Class define in this table. 
 
-***!! If “Asset Class” is set to blank here, related securities will not be imported.*** Transaction Type Mapping 
+**!! If “Asset Class” is set to blank here, related securities will not be imported.** 
+
+**Transaction Type Mapping**
 
 It is used to import the “Cash operations” in **General Journal**
 
