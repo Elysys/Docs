@@ -8,7 +8,7 @@
   links:
     - title: "Overview"
       url: "docs/wealth/options_info"  
-- title: Loans
+- title: Elysys Loans
   url: "docs/loans/loansanddeposits"
   links:
     - title: "Overview"
@@ -16,7 +16,7 @@
       children:
         - title: "NAVCash General Setup"
           url: "docs/loans/loansanddeposits#NAVCash-General-Setup" 
-- title: EBG
+- title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
     - title: "EBG User Guide"
