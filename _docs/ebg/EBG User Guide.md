@@ -1,5 +1,5 @@
 ---
-title: EBG User Guid
+title: Elysys Bank Gateway (EBG) User Guid
 tags: 
  - EBG
  - Setup
@@ -8,7 +8,7 @@ description: How to setup EBG client Side
 
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
-# **EBG User Guide**
+# **Elysys Bank Gateway (EBG) User Guide**
 
 Flow Diagram
 
