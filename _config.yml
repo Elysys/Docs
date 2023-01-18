@@ -44,10 +44,10 @@ version_params:
   version_menu: "Release"
   version_dir: Archive
   tocversion_dir: versions
-  versioning: false
+  versioning: true
 
   # Disable so older versions cannot be searched
-  allow_search: false  
+  allow_search: true  
 
   # Allow these versions to be searched
   search_versions:
