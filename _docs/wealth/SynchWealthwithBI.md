@@ -5,11 +5,7 @@ tags:
  - Elysys Analytics
 description: How to synchronise a newly created company from Elysys Wealth with the Elysys analytics
 ---
-
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
-
-Description automatically generated](Aspose.Words.f56a59cc-49e0-4a1b-8c57-b5620a214cda.001.png)
-
 # **User Guide  - How to synchronise a newly created company from Elysys Wealth with the BI analytics**
 
 ## 1. Create a new Company
@@ -54,11 +50,13 @@ Most of the times it is enough to select only the company name and then the BI w
 - User will access the *Consolidation* page and open an existing item in the list. The page can be accessed directly by searching for *“Consolidation”*.
 
 ![/assets/img/ComsolidatonList.png](../../assets/img/ComsolidatonList.png)
+
 *Figure 4 Accessing the Consolidation module*
 
 - Select an existing grouping or create a new one if needed.
 
 ![/assets/img/SelectConsolList.png](../../assets/img/SelectConsolList.png)
+
 *Figure 5 Selecting an existing group*
 
 - Once the group is opened, insert the new company by creating a new line. Mandatory fields to be filled in:
@@ -66,10 +64,12 @@ Most of the times it is enough to select only the company name and then the BI w
   - *Entity Type*
 
 ![/assets/img/ConsolTest.png](../../assets/img/ConsolTest.png)
+
 *Figure 6 Adding a new company into an existing group*
 
 - As a result, the company will be displayed under the ***CONSOLIDATION TEST 1*** in the BI, having the Entity Type ***“ENTITY TEST”.*** Note that the change will be pickup by the BI at the next refresh (refresh rate is 15 minutes).
 
 ![/assets/img/ConsolPage.png](../../assets/img/ConsolPage.png)
+
 *Figure 7 New company added into an existing group*
 
