@@ -206,7 +206,3 @@ The accounting entries and the impact in the ledgers and subledgers.
 The accounting entries and the impact in the ledgers and subledgers.
 
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/OptiosnReportExpiry.png)
-
-## **Accounting behaviour per Document Type and Option Type**
-
-![/assets/img/ElysysLoansLogo.png](../../assets/img/Accountingbehaviour.png)
