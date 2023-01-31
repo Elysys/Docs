@@ -16,6 +16,8 @@
       children:
         - title: "NAVCash General Setup"
           url: "docs/loans/loansanddeposits#NAVCash-General-Setup" 
+    - title: "Manual Paym. Schedule"
+      url: "docs/loans/loan_manual_payment_schedule"
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
