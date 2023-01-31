@@ -28,6 +28,8 @@
   links:
     - title: "About"
       url: "about"
+- title: "Support"
+  url: "docs/support"
 - title: "Extras"
   url: "docs/extras"
   links:
