@@ -13,6 +13,9 @@ description: Options Module
 This document describes the standard functionalities of the Options module of Elysys Wealth for 
 
 Microsoft Dynamics Business Central, as well as the required setup.
+
+![/assets/img/ProcessingOptions.jpg](../../assets/img/ProcessingOptions.jpg)
+
 ## **Investment General Setup**
 The user must make sure the following settings had been set up:
 

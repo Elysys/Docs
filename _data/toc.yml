@@ -3,10 +3,9 @@
   links:
     - title: "Synch. Wealth with BI"
       url: "docs/wealth/SynchWealthwithBI"  
-- title: Options
   url: "docs/wealth/options_info"
   links:
-    - title: "Overview"
+    - title: "Options"
       url: "docs/wealth/options_info"  
 - title: Elysys Loans
   url: "docs/loans/loansanddeposits"
