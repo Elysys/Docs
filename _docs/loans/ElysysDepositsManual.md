@@ -254,7 +254,7 @@ Fee Card for each type of fee.
 
 ![](../../assets/img/deposits manual/image16.png)
 
-## **Journals & Posting procedures**
+## **Journals and Posting procedures**
 
 ![](../../assets/img/deposits manual/image17.png)
 
