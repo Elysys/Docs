@@ -389,7 +389,7 @@ functions to:
 -   Add Dimensions to several journal entries at once by selecting them
     (Button: DimensionsMultiple)
 
-[](#functions-&-navigation)
+[](#functions-navigation)
 ## **Functions & Navigation**
 
 ### **Renew with or without Capitalisation of Interest**
