@@ -6,6 +6,7 @@ tags:
  - Deposits
 description: How to setup and use the Loan Deposits module
 ---
+# Elysys Deposits Module
 This document describes the standard functionalities of the Deposits
 module in Elysys for Microsoft Dynamics Business Central, as well as the
 required setup. Two types of deposits can be managed within the system:
