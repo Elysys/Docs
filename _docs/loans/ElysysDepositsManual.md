@@ -229,6 +229,7 @@ be used.
 To distinguish posted from non-posted entries, the system will show the
 posted entries in a red colour.
 
+[fees](#foo)
 ## **Fees**
 
 Go to: *Home ➔ Deposits ➔ Home➔ Button: Fees*
