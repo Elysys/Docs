@@ -229,7 +229,7 @@ be used.
 To distinguish posted from non-posted entries, the system will show the
 posted entries in a red colour.
 
-[fees](#foo)
+[](#fees)
 ## **Fees**
 
 Go to: *Home ➔ Deposits ➔ Home➔ Button: Fees*
@@ -389,6 +389,7 @@ functions to:
 -   Add Dimensions to several journal entries at once by selecting them
     (Button: DimensionsMultiple)
 
+[](#functions-&-navigation)
 ## **Functions & Navigation**
 
 ### **Renew with or without Capitalisation of Interest**
