@@ -21,7 +21,7 @@
         - title: "Fees"
           url: docs/loans/ElysysDepositsManual#fees
         - title: "Functions & Navigation"
-          url: docs/loans/ElysysDepositsManual#functionsnavigation
+          url: docs/loans/ElysysDepositsManual#func
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
