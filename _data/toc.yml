@@ -16,12 +16,12 @@
     - title: "Manual Paym. Schedule"
       url: "docs/loans/loan_manual_payment_schedule"
     - title: "Deposits"
-      url: "docs/loans/ElysysDepositsManualv0.2"
+      url: "docs/loans/ElysysDepositsManual"
       children:
         - title: "Deposit Setup"
-          url: docs/loans/ElysysDepositsManualv0.2#Deposit-Setup
+          url: docs/loans/ElysysDepositsManual#Deposit-Setup
         - title: "Deposit Card"
-          url: docs/loans/ElysysDepositsManualv0.2#Deposit-Card
+          url: docs/loans/ElysysDepositsManual#Deposit-Card
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
