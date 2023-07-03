@@ -358,26 +358,26 @@ functions to:
 
 ### **Loan & Deposit IFRS Year End Closing**
 
-> *Go to: Home ➔ Deposits ➔ Journal➔ Button: Loan & Deposit IFRS Year
-> End Closing*
->
-> For entities complying with the IFRS regulations, Elysys Deposits
-> Module provides an IFRS accounting treatment.
->
-> Within the Loan & Deposit IFRS Year End Closing, the user can generate
-> the needed entries to mark to market the foreign currency deposits at
-> the end of the fiscal year. Business Central standard currency
-> exchange rates are used to adjust the outstanding deposit capital.
->
-> **Pre-Requirement:** The Loan & Deposit Revaluation must be processed
-> before running the IFRS Year End Closing process.
->
-> Click on the button *"Suggest Revaluation"* to generate posting
-> entries. You will be prompted to choose from the already configured
-> beginning periods of the fiscal years.
->
-> Once the entries have been carefully verified, use the various
-> available functions to:
+ *Go to: Home ➔ Deposits ➔ Journal➔ Button: Loan & Deposit IFRS Year
+ End Closing*
+
+ For entities complying with the IFRS regulations, Elysys Deposits
+ Module provides an IFRS accounting treatment.
+
+ Within the Loan & Deposit IFRS Year End Closing, the user can generate
+ the needed entries to mark to market the foreign currency deposits at
+ the end of the fiscal year. Business Central standard currency
+ exchange rates are used to adjust the outstanding deposit capital.
+
+ **Pre-Requirement:** The Loan & Deposit Revaluation must be processed
+ before running the IFRS Year End Closing process.
+
+ Click on the button *"Suggest Revaluation"* to generate posting
+ entries. You will be prompted to choose from the already configured
+ beginning periods of the fiscal years.
+
+ Once the entries have been carefully verified, use the various
+ available functions to:
 
 -   Preview the lines to be posted (Button: Print Preview)
 
@@ -388,7 +388,7 @@ functions to:
 -   Add Dimensions to several journal entries at once by selecting them
     (Button: DimensionsMultiple)
 
-## **Functions & Navigation**
+## **Functions and Navigation**
 
 ### **Renew with or without Capitalisation of Interest**
 
