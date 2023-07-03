@@ -19,9 +19,9 @@
       url: "docs/loans/ElysysDepositsManual"
       children:
         - title: "Deposit Setup"
-          url: docs/loans/ElysysDepositsManual#Deposit-Setup
+          url: docs/loans/ElysysDepositsManual##Deposit-Setup
         - title: "Deposit Card"
-          url: docs/loans/ElysysDepositsManual#Deposit-Card
+          url: docs/loans/ElysysDepositsManual##Deposit-Card
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
