@@ -18,8 +18,16 @@
     - title: "Deposits"
       url: "docs/loans/ElysysDepositsManual"
       children:
+        - title: "Deposit Setup"
+          url: docs/loans/ElysysDepositsManual#deposit-setup
+        - title: "Deposit Card"
+          url: docs/loans/ElysysDepositsManual#deposit-card
+        - title: "Deposit Management"
+          url: docs/loans/ElysysDepositsManual#deposit-management
         - title: "Fees"
           url: docs/loans/ElysysDepositsManual#fees
+          - title: "Journals and Posting procedures"
+          url: docs/loans/ElysysDepositsManual#journal-and-posting-procedures
         - title: "Functions & Navigation"
           url: docs/loans/ElysysDepositsManual#functions-and-navigation
 - title: Elysys Bank Gateway
