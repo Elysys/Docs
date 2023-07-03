@@ -254,7 +254,7 @@ Fee Card for each type of fee.
 
 ![](../../assets/img/deposits manual/image16.png)
 
-## **Journals and Posting procedures**
+## **Journals & Posting procedures**
 
 ![](../../assets/img/deposits manual/image17.png)
 
@@ -388,7 +388,7 @@ functions to:
 -   Add Dimensions to several journal entries at once by selecting them
     (Button: DimensionsMultiple)
 
-## **Functions and Navigation**
+## **Functions & Navigation**
 
 ### **Renew with or without Capitalisation of Interest**
 
