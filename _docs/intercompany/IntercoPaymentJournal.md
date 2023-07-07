@@ -163,7 +163,6 @@ for all intercompany payments posted across all entities.
 Path: Intercompany Payment Journal -\> Archive -\> Posted Interco.
 Payments
 
-![Timeline Description automatically generated with medium
 ![](../../assets/img/IntercoPaymentJournal/image013.png)
 
 ![](../../assets/img/IntercoPaymentJournal/image014.png)
