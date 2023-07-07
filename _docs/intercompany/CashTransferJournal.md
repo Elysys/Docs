@@ -4,7 +4,7 @@ description: How to use the Intercompany Cash Transfer Journal
 ---
 # Cash Transfer Journal
 
-## Scope  {#scope .unnumbered}
+## Scope
 
 **Intercompany Cash Transfer** allows transferring funds between two
 different entities.
@@ -12,7 +12,7 @@ different entities.
 **Intracompany Cash Transfer** allows transferring funds between two
 different bank accounts of the same entity.
 
-## Notes {#notes .unnumbered}
+## Notes
 
 -   **Cash Transfer Journal** can be processed from any company,
     regardless of the companies involved.
@@ -36,7 +36,7 @@ different bank accounts of the same entity.
 -   **Posted Transfer** is a historical aggregated view for all cash
     transfers made across all entities.
 
-## Workflow  {#workflow .unnumbered}
+## Workflow
 
 IC A -- Source Company
 
@@ -141,7 +141,7 @@ cash transfers posted across all entities.
 
 ![](../../assets/img/CashTransferJournal/image010.png)
 
-## Ledger Entries  {#ledger-entries .unnumbered}
+## Ledger Entries
 
 a)  Source Company -- IC A
 
@@ -189,7 +189,7 @@ Notes:
     transaction belongs to which. The categories are user definable and
     are predefined in the Cashflow Classification Setup screen.  
 
-## Ledger Entries  {#ledger-entries-1 .unnumbered}
+## Ledger Entries
 
 ![](../../assets/img/CashTransferJournal/image015.png)
 > DB Target Bank Account 1,000.00   
@@ -200,7 +200,7 @@ Cashflow Classification -\> Intra Cash Transfer
 
 Intercompany Dimension -\> IC B
 
-## Reversal  {#reversal .unnumbered}
+## Reversal 
 
 Reversal can be processed from any company involved and reversal in one
 entity triggers the creation of ledger entries and reversals in both

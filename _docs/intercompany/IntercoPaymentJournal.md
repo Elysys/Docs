@@ -3,12 +3,12 @@ title: Intercompany Payment Journal
 description: How to use the Intercompany Payment Journal
 ---
 # Payment Journal
-## Scope  {#scope .unnumbered}
+## Scope 
 
 **The Intercompany Payment Journal** allows processing payments from
 another entity than the invoice was booked.
 
-## Notes {#notes .unnumbered}
+## Notes
 
 -   **Intercompany Payment Journal** can be processed from any company,
     regardless of the companies involved.
@@ -32,7 +32,7 @@ another entity than the invoice was booked.
 -   **Transfer Instruction** specifies details of the transfer of funds
     and its signatories in a pdf or a word document.
 
-## Workflow & Expected Results  {#workflow-expected-results .unnumbered}
+## Workflow & Expected Results  
 
 IC A -- Target Company
 
@@ -202,7 +202,7 @@ Cashflow Classification -\> Interco Payment
 
 Dimension -\> IC B (Paying Company)
 
-## Reversal  {#reversal .unnumbered}
+## Reversal
 
 Reversal can be processed from any company involved and reversal in one
 entity triggers the creation of ledger entries and reversals in both
