@@ -1,4 +1,10 @@
-# Scope 
+---
+title: Intercompany INV Transfer Journal
+description: How to use the Intercompany INV Transfer Journal
+---
+
+#INV Transfer Journal
+## Scope 
 
 **Intercompany Investment Transfer** allows transferring an asset
 between two different entities at market price.
@@ -6,7 +12,7 @@ between two different entities at market price.
 **Intracompany Investment Transfer** allows transferring an asset from
 one portfolio to another within the same company at average cost.
 
-# Notes
+## Notes
 
 -   Asset Classes included: Bonds, Preferred Shares, Structured Notes,
     Equities, Funds, and Alternative Investments.
@@ -36,13 +42,13 @@ one portfolio to another within the same company at average cost.
 -   **Transfer Instruction** specifies details of the transfer of an
     asset and its signatories in a pdf or a word document.
 
-# Workflow 
+## Workflow 
 
 IC A -- Source Company
 
 IC B -- Target Company
 
-## Intercompany Investment Transfer 
+### Intercompany Investment Transfer 
 
 > Path: Elysys Wealth -\> Toolkit -\> Transfer -\> INV Transfer Journal
 
@@ -126,7 +132,7 @@ Path: INV Transfer Journal -\> Archive -\> Posted Transfers
 investment transfers posted across all entities.
 
 ![](../../assets/img/INVTransferJournal/image006.png)
-# Ledger Entries 
+## Ledger Entries 
 
 a)  Source Company -- IC A
 
@@ -148,13 +154,13 @@ b)  Target Company -- IC B
 
 Dimension -\> IC A (Source Company) 
 
-## Intracompany Investment Transfer
+### Intracompany Investment Transfer
 
 ![](../../assets/img/INVTransferJournal/image009.png)
 
 ![](../../assets/img/INVTransferJournal/image010.png)
 
-# Ledger Entries
+## Ledger Entries
 
 ![](../../assets/img/INVTransferJournal/image011.png)
 
@@ -162,7 +168,7 @@ Dimension -\> IC A (Source Company) 
 >
 > CR Source Portfolio 5,833.33.00 
 
-# Reversal 
+## Reversal 
 
 Reversal can be processed from any company involved and reversal in one
 entity triggers the creation of ledger entries and reversals in both

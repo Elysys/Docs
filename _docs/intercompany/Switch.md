@@ -1,11 +1,17 @@
+---
+title: Intercompany Switch
+description: How to use the Intercompany Switch module
+---
 # Switch
 
-## Scope
+#
+Scope
 
 Switch allows changing investment's name to another one in case a sale
 of one investment occurs in exchange for another one.
 
-## Notes
+#
+Notes
 
 -   Asset Classes Included -\> **Equities, Funds, Alternative
     Investments**
@@ -22,7 +28,8 @@ of one investment occurs in exchange for another one.
 
 -   Target Investment is recorded as purchase.
 
-## Workflow 
+#
+Workflow 
 
 > Path: Elysys Wealth -\> Toolkit -\> Switch
 

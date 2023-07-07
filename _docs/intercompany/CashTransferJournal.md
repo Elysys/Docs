@@ -1,3 +1,7 @@
+---
+title: Intercompany Cash Transfer Journal
+description: How to use the Intercompany Cash Transfer Journal
+---
 # Cash Transfer Journal
 
 ## Scope  {#scope .unnumbered}

@@ -1,3 +1,7 @@
+---
+title: Multi-Company General Journal
+description: How to use the Multi-Company General Journal
+---
 
 # Multi-Company General Journal
 
