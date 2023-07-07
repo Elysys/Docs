@@ -19,6 +19,21 @@
   links:
     - title: "EBG User Guide"
       url: "docs/ebg/EBG User Guide"  
+- title: Intercompany
+  url: "docs/intercompany/CashTransferJournal"
+  links:
+    - title: "Cash Transfer Jnl."
+      url: "docs/ebg/CashTransferJournal"
+    - title: "Intercompany Payment Jnl."
+      url: "docs/ebg/IntercoPaymentJournal"
+    - title: "INV Transfer Jnl."
+      url: "docs/ebg/INVTransferJournal"
+    - title: "Multicompany Gen. Jnl."
+      url: "docs/ebg/MulticompanyGeneralJournal"
+    - title: "Switch"
+      url: "docs/ebg/Switch"
+      
+      
 - title: Documentation
   url: docs
   links:
