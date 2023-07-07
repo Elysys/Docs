@@ -23,15 +23,15 @@
   url: "docs/intercompany/CashTransferJournal"
   links:
     - title: "Cash Transfer Jnl."
-      url: "docs/ebg/CashTransferJournal"
+      url: "docs/intercompany/CashTransferJournal"
     - title: "Intercompany Payment Jnl."
-      url: "docs/ebg/IntercoPaymentJournal"
+      url: "docs/intercompany/IntercoPaymentJournal"
     - title: "INV Transfer Jnl."
-      url: "docs/ebg/INVTransferJournal"
+      url: "docs/intercompany/INVTransferJournal"
     - title: "Multicompany Gen. Jnl."
-      url: "docs/ebg/MulticompanyGeneralJournal"
+      url: "docs/intercompany/MulticompanyGeneralJournal"
     - title: "Switch"
-      url: "docs/ebg/Switch"
+      url: "docs/intercompany/Switch"
       
       
 - title: Documentation
