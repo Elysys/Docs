@@ -11,52 +11,71 @@ description: How to use Manual Payment Schedule for Loans
 
 # Loans - Manual Payment Schedule
 
-### 1/ Loan Card
+This document describes the process of manually import a payment
+schedule using the Elysys Loans Module.
 
-Process > Import Manual Payment Schedule
+## **Access the Manual Payment Schedule menu**
 
-![/assets/img/LoanCard_manual.png](../../assets/img/LoanCard_manual.png)
+1.  Open a loan card and navigate to *Process Import Manual Payment
+    Schedule*
 
-### 2/ Several options are available:
+    ![](../../assets/img/LoanPaymentSchedule/image001.jpg)
 
-![/assets/img/LoanProcessManual.png](../../assets/img/LoanProcessManual.png)
+2.  Several options are available:
 
-- Start with a blank Payment Schedule and fill in your own
+    ![](../../assets/img/LoanPaymentSchedule/image002.jpg)
 
-➔ Click on Process “Export Excel Template”. 
-This will generate an Excel template for you to use.
-  - Start from the existing Payment Schedule (system generated) and modify it directly in the system
+    a.  Start with a blank Payment Schedule and fill in your own
+    
+        Click on Process *"Export Excel Template"*. This will generate an Excel template for you to use.
 
-➔ Click on “Copy Current Payment Schedule”. 
-This will populate the page with the current payment schedule of the loan.
+    b.  Start from the existing Payment Schedule (system generated) and
+        modify it directly in the system
 
-➔ Manually modify the schedule.
+        Click on "Copy Current Payment Schedule". This will populate the
+        page with the current payment schedule of the loan.
 
-### 3/ Continuing from point 2.a, after saving the Excel template on your PC, you can insert the payment schedule in Excel.
+    c.  Manually modify the schedule.
 
-Example:
+3.  Continuing from the previous point, after saving the Excel template
+    on your PC, you can insert the payment schedule in Excel. Example:
 
-![/assets/img/LoanPaymentSchedule.png](../../assets/img/LoanPaymentSchedule.png)
+    ![](../../assets/img/LoanPaymentSchedule/image003.jpg)
 
-### 4/ We import it back in Business Central using the function “Import Payment Schedule from Excel”.
+## **Import the excel file with the new payment schedule**
 
-The are some built-in checks already when importing the schedule, but mainly you need to make sure that:
+1.  We import it back in Business Central using the function "Import
+    Payment Schedule from Excel".
 
-- Period Start Date of the 1st entry is = to the Value Date of the Loan
-- Posting Date of the last entry is = to the Maturity Date of the Loan
-- Period Start Date = Posting Date of previous line
-- Total Due = Interest Repaid + Capital Repaid
-- Ending Balance = Beginning Balance -Capital Repaid
-- Beginning Balance = Ending Balance of previous line
-- First entry should have Beginning Balance = Loan Amount
-- Last Entry should have Ending Balance = 0
+2.  The are some built-in checks already when importing the schedule,
+    but mainly you need to make sure that:
 
-### 5/ Once you import the Payment Schedule in the system, you need to click on Save > Save Payment Schedule
+    a.  Period Start Date of the 1st entry is = to the Value Date of the
+        Loan
 
-![/assets/img/LoanSavePaymentSchedule.png](../../assets/img/LoanSavePaymentSchedule.jpeg)
+    b.  Posting Date of the last entry is = to the Maturity Date of the
+        Loan
 
-6. That’s all. Now you will see on the Loan Card this comment to warn the user the original schedule has been overwritten:
+    c.  Period Start Date = Posting Date of previous line
 
-![/assets/img/LoanManualPaymntScheduleConf.png](../../assets/img/LoanManualPaymntScheduleConf.png)
+    d.  Total Due = Interest Repaid + Capital Repaid
 
-And from the Loan Card > Payment Schedule, the system generated schedule has been replaced with the imported one.
+    e.  Ending Balance = Beginning Balance - Capital Repaid
+
+    f.  Beginning Balance = Ending Balance of previous line
+
+    g.  First entry should have Beginning Balance = Loan Amount
+
+    h.  Last Entry should have Ending Balance = 0
+
+3.  Once you import the Payment Schedule in the system, you need to
+    click on Save \> Save Payment Schedule.![Table Description
+    automatically
+    generated](../../assets/img/LoanPaymentSchedule/image004.jpg)
+
+
+4.  That's all. Now you will see on the Loan Card this comment to warn
+    the user the original schedule has been overwritten:
+    ![](../../assets/img/LoanPaymentSchedule/image005.jpg)   
+    And from the Loan Card \> Payment Schedule, the system generated
+    schedule has been replaced with the imported one.
