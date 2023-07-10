@@ -83,14 +83,14 @@ Notes:
     Journal Batch. If the Source Code in the batch is blank, then the
     user needs to select the Source Code in the journal manually.
 
-![](CashTransferJournal//image003.png)
+![](../../assets/img/CashTransferJournal/image003.png)
 
 -   **Signatory 1 & 2** -- used for generating Payment Instructions.
     Signatories are predefined in the following pages:
 
     -   **INV Signatory List**
 
-![](CashTransferJournal//image004.png)
+![](../../assets/img/CashTransferJournal/image004.png)
 
 -   **INV Signatory Card  **
 
