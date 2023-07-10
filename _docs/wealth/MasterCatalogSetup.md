@@ -46,7 +46,7 @@ use the **Master Catalog Setup module** in Elysys Wealth.
 
     ![](../../assets/img/MasterCatalogSetup/image005.jpg)
 
-**Setup the Local Currency for the new company**
+### **Setup the Local Currency for the new company**
 
 1.  Access the *General Ledger Setup* (using the Search function)
 
@@ -54,7 +54,7 @@ use the **Master Catalog Setup module** in Elysys Wealth.
 
         ![](../../assets/img/MasterCatalogSetup/image006.jpg)
 
-**Create the Accounting Periods in the new company**
+### **Create the Accounting Periods in the new company**
 
 1.  Access the *Accounting Periods* using the search function
 
@@ -67,7 +67,7 @@ use the **Master Catalog Setup module** in Elysys Wealth.
 
 3.  Close the page once finished.
 
-**Add the company in the Master Catalog**
+### **Add the company in the Master Catalog**
 
 1.  Access the Master *Company Setup* to check which is the master
     company. You do that by searching for *Master Catalog Setup* while
