@@ -8,42 +8,62 @@ description: How to synchronise a newly created company from Elysys Wealth with 
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 # **User Guide  - How to synchronise a newly created company from Elysys Wealth with the BI analytics**
 
+This document describes how to add a new company in the synchronisation
+process for the BI (Business Intelligence).
+
 ## 1. Create a new Company
-User can create a new company by:
 
-- Copying an existing company,
-- Creating a new company from scratch.
+There several options for creating a new company:
 
-![/assets/img/ListCompanies.png](../../assets/img/ListCompanies.png)
+-   Copying an existing company,
 
-*Figure 1 Companies list*
-## 2. Add the company into the Aggregated Companies module
-*Note that the steps from down below can be done in any company (not mandatory in the Master Company) as the table with the Aggregated Companies is already shared across all the companies.*
+-   Creating a new company from scratch
 
-- User will access the *Aggregate View Companies* page and add the newly created company into the list. The page can be accessed directly by searching for *“Aggregated Companies”*.
+![](../../assets/img/SynchNewCompanyBI/image001.jpg)
 
-![/assets/img/AggregateCompaniesSetup.png](../../assets/img/AggregateCompaniesSetup.png)
+## 2. Add the new company in the Aggregated View
 
-*Figure 2 Searching for Aggregated View Companies module*
+Access the Aggregate View Companies page and add the newly created
+company into the list. The page can be opened directly by searching for
+*"Aggregated Companies".*
 
-- Create a new line and select the company.
+The page can also be accessed by accessing ***Home page Actions:
+Aggregate Aggregate Companies** (while using the Elysys Back-Office
+profile).*
 
-![/assets/img/AggCompaniesPage.png](../../assets/img/AggCompaniesPage.png)
+![](../../assets/img/SynchNewCompanyBI/image002.jpg)
 
-*Figure 3 Adding the new company into the list*
+*Note that the steps from down below can be done in any company (not
+mandatory in the Master Company) as the table with the Aggregated
+Companies is already shared across all the companies.*
+
+![](../../assets/img/SynchNewCompanyBI/image003.jpg)
 
 Available fields:
 
-- *Co. CCY Code (LCY):* this field defaults to the company’s LCY (local currency)
-- *Use for USD Exchange Rate:* acts as a Global Currency and it’s used when translated the BI measure into that specific currency
-- *Used for Investment Market Date:* Not mandatory
-- *Risk Free Rate:* Not mandatory
-- *Manuel Fees G/L Account:* the bank charges that relate to the transactions in bank accounts
-- *Legal Fees:* the facility arrangement charges that apply on loans
-- *Consultancy:* the portfolio management charges that apply on the overall portfolio holding Equity, SN, etc
-- *Other Costs:* the interest expenses that are applied on loans
+-   Co. CCY Code (LCY): this field defaults to the company's LCY (local
+    currency)
 
-Most of the times it is enough to select only the company name and then the BI will pick up the company at the next refresh. Note that the refresh rate is 15 minutes.
+-   Use for USD Exchange Rate: acts as a Global Currency and it's used
+    when translated the BI measure into that specific currency
+
+-   Used for Investment Market Date: Not mandatory
+
+-   Risk Free Rate: Not mandatory
+
+-   Manuel Fees G/L Account: the bank charges that relate to the
+    transactions in bank accounts
+
+-   Legal Fees: the facility arrangement charges that apply on loans
+
+-   Consultancy: the portfolio management charges that apply on the
+    overall portfolio holding Equity, SN, etc
+
+-   Other Costs: the interest expenses that are applied on loans
+
+That\'s all: the new company will be available in the BI after the next
+refresh.
+
 ## 3. Adding the company to a specific Group
 *Note that the steps from down below can be done in any company (not mandatory in the Master Company) as the table with the Aggregated Companies is already shared across all the companies.*
 
