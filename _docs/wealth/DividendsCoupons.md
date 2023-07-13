@@ -118,17 +118,3 @@ Then run the \"Suggest Coupons\" function and enter the date at which
 you need to process all your settlement entries in the \"Last Payment
 Date\" field.
 
-## **Investments Revaluation**
-
-### **Import the Market Price for each investment to be revalued**
-
-*Go to: Home ➔ Periodic Activities ➔ Button: Portfolio Revaluation*
-
-The Portfolio Revaluation journal will be used to revalue the
-investments and this process will impact the General Ledger.
-
-As a prerequisite, you must insert the Market Price (in the investment
-currency) and the last trading date in the Market Value table before
-running the revaluation.
-
-![](../../assets/img/DividendsCoupons/image004.jpg)
