@@ -16,7 +16,7 @@ It includes features such as tracking shareholders' holding percentage,
 capital structure, tax reporting, and agreements and contracts
 management.
 
-## Setup 
+# Setup 
 
 ![](../../assets/img/ElysysCorporate/image001.jpg)
 
@@ -64,8 +64,8 @@ Specify document types that will be uploaded into the module. The user can defin
 
 ![](../../assets/img/ElysysCorporate/image005.jpg)
 
-## Workflow 
-### I. Creating Contacts Automatically 
+# Workflow 
+## I. Creating Contacts Automatically 
 The system allows automatic integration of Business Central contacts
 by defining Bus. Relation Code in the Marketing Setup screen for
 Customers, Vendors, Bank Accounts and Employees. Once defined, the
@@ -76,7 +76,7 @@ Corporate Module.
 
 ![](../../assets/img/ElysysCorporate/image006.jpg)
 
-### II. Creating Contacts Manually 
+## II. Creating Contacts Manually 
 
     Path: Corporate Activities -> Contact
 
@@ -102,7 +102,7 @@ Corporate Module.
 
     ![](../../assets/img/ElysysCorporate/image010.jpg)
 
-### III. Administration Activities 
+## III. Administration Activities 
 
 Before a Corporate Contact is created, any related contacts previously
 created need to be assigned to a corresponding role or roles under the
@@ -116,7 +116,7 @@ One contact can be assigned to one or multiple roles.
 
 ![](../../assets/img/ElysysCorporate/image013.jpg)
 
-### IV. Corporate Contact 
+## IV. Corporate Contact 
 
 Corporate Contact stores detailed information regarding a company or a
 person, its contact details, tax information, shareholders and share
@@ -144,7 +144,7 @@ deadline up to three months before its due date.
 
 ![](../../assets/img/ElysysCorporate/image017.jpg)
 
-#### i. Corporate Contacts -\> Functions 
+### i. Corporate Contacts -\> Functions 
 
 Under Functions of the Corporate Contact the user can specify Capital
 Structures, upload documents, record tax information and assign bank
@@ -169,7 +169,7 @@ accounts.
 -   **Banks Assigned** -- in order to define Bank Accounts related to
     the Contact go to Banks card.
 
-#### ii. Corporate Contacts -\> Property 
+### ii. Corporate Contacts -\> Property 
 
 Used to link associated contacts with the corporate contact, e.g., its
 Shareholders and Partners and Corporate Owners, their holding
@@ -204,13 +204,13 @@ Distribution under the main screen of the module.
 
 ![](../../assets/img/ElysysCorporate/image026.jpg)
 
-### V. Property 
+## V. Property 
 
 ![](../../assets/img/ElysysCorporate/image027.jpg)
 
 ![](../../assets/img/ElysysCorporate/image028.jpg)
 
-###  i. COP Property Card 
+##  i. COP Property Card 
 
 Property Card specifies the details of the property, its owners, shares
 distribution, tenants, and other third party\'s companies and
