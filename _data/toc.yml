@@ -21,6 +21,11 @@
   links:
     - title: "EBG User Guide"
       url: "docs/ebg/EBG User Guide"  
+- title: Elysys Corporate
+  url: "docs/corporate/Setup"
+  links:
+    - title: "Corporate Setup"
+      url: "docs/corporate/Setup"  
 - title: Intercompany
   url: "docs/intercompany/CashTransferJournal"
   links:
