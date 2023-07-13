@@ -25,11 +25,11 @@ Information*
 <div style= "display:flex; align-items:stretch; align-content:space-between">
     <div class="text" style="flex: 1">
 
-  **Ex-Dividend Date:** Date at which the dividend is received in the account   
-  **Type:** Cash means it is received as cash   
-  **Dividend Amount (ICY):** amount of dividend received per share  
-  **Announcement date:** for information only (not mandatory)   
-  **Payment Date:** the date at which the payment is received (mandatory)   
+  <b>Ex-Dividend Date:</b> Date at which the dividend is received in the account   </br>
+  <b>Type:</b> Cash means it is received as cash   </br>
+  <b>Dividend Amount (ICY):</b> amount of dividend received per share  </br>
+  <b>Announcement date:</b> for information only (not mandatory)   </br>
+  <b>Payment Date:</b> the date at which the payment is received (mandatory)   </br>
 
 
   </div>
@@ -37,6 +37,7 @@ Information*
         <img src="../../assets/img/DividendsCoupons/image001.jpg"/>
     </div>
  </div>
+</br>
 
   **Second setup** is to setup the account rules for the dividend
 postings.   
@@ -46,9 +47,9 @@ For each Investment Type, you may setup one GL account for:
     <div class="text" style="flex: 1">
 
 
--   **PNL Dividend**: dividend realised account
--   **Tax, Fees, Expense Account**: dividend tax, fee, expense account
--   **Settlement Account**: dividend accrual/ transit account before the amount is received to the bank
+-   <b>PNL Dividend:</b> dividend realised account</br>
+-   <b>Tax, Fees, Expense Account:</b> dividend tax, fee, expense account</br>
+-   <b>Settlement Account:</b> dividend accrual/ transit account before the amount is received to the bank</br>
 
   </div>
       <div class="image" style= "flex: 2">
@@ -92,11 +93,11 @@ For each Investment Type, you may setup one GL account for:
 <div style= "display:flex; align-items:stretch; align-content:space-between">
     <div class="text" style="flex: 1">
 
--   **PNL accrued interest:** accrued interest
--   **BS Accrued Interest:** BS accrued interest
--   **PNL Interest:** PNL interest
--   **Tax, Expense Account:** coupon tax, expense account
--   **Settlement Account:** transit account before the amount is received to the bank (used only if Trade Date accounting is required)
+-  <b>PNL accrued interest:</b> accrued interest</br>
+-  <b>BS Accrued Interest:</b> BS accrued interest</br>
+-  <b>PNL Interest:</b> PNL interest</br>
+-  <b>Tax, Expense Account:</b> coupon tax, expense account</br>
+-  <b>Settlement Account:</b> transit account before the amount is received to the bank (used only if Trade Date accounting is required)</br>
 
   </div>
       <div class="image" style= "flex: 2">
