@@ -41,7 +41,11 @@
       url: "docs/intercompany/MulticompanyGeneralJournal"
     - title: "Switch"
       url: "docs/intercompany/Switch"
-      
+- title: Toolkit
+  url: "docs/toolkit/DataMigrationManual"
+  links:
+    - title: "Data Migration Manual"
+      url: "docs/wealth/DataMigrationManual"      
       
 - title: Documentation
   url: docs
