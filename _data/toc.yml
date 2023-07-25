@@ -45,7 +45,7 @@
   url: "docs/toolkit/DataMigrationManual"
   links:
     - title: "Data Migration Manual"
-      url: "docs/wealth/DataMigrationManual"      
+      url: "docs/toolkit/DataMigrationManual"      
       
 - title: Documentation
   url: docs
