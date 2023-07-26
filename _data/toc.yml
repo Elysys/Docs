@@ -12,10 +12,8 @@
 - title: Elysys Loans
   url: "docs/loans/loansanddeposits"
   links:
-    - title: "Overview"
+    - title: "Loans"
       url: "docs/loans/loansanddeposits"
-    - title: "Manual Paym. Schedule"
-      url: "docs/loans/loan_manual_payment_schedule"
     - title: "Deposits"
       url: "docs/loans/ElysysDepositsManual"
 - title: Elysys Bank Gateway
@@ -28,24 +26,24 @@
   links:
     - title: "Corporate Setup"
       url: "docs/corporate/Setup"  
-- title: Intercompany
+- title: Elysys Multi-Company
   url: "docs/intercompany/CashTransferJournal"
   links:
-    - title: "Cash Transfer Jnl."
+    - title: "Cash Transfers"
       url: "docs/intercompany/CashTransferJournal"
-    - title: "Intercompany Payment Jnl."
+    - title: "Intercompany Payments"
       url: "docs/intercompany/IntercoPaymentJournal"
-    - title: "INV Transfer Jnl."
+    - title: "Investment Transfers"
       url: "docs/intercompany/INVTransferJournal"
-    - title: "Multicompany Gen. Jnl."
+    - title: "Multi-Company General Journal"
       url: "docs/intercompany/MulticompanyGeneralJournal"
-    - title: "Switch"
-      url: "docs/intercompany/Switch"
 - title: Toolkit
   url: "docs/toolkit/DataMigrationManual"
   links:
     - title: "Data Migration Manual"
-      url: "docs/toolkit/DataMigrationManual"      
+      url: "docs/toolkit/DataMigrationManual" 
+    - title: "Switch"
+      url: "docs/toolkit/Switch"     
       
 - title: Documentation
   url: docs
