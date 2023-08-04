@@ -52,7 +52,7 @@ use the **Master Catalog Setup module** in Elysys Wealth.
 
 2.  Fill in the *LCY Code* (i.e USD) and close the page
 
-        ![](../../assets/img/MasterCatalogSetup/image006.jpg)
+    ![](../../assets/img/MasterCatalogSetup/image006.jpg)
 
 ### **Create the Accounting Periods in the new company**
 
