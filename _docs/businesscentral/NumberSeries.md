@@ -5,8 +5,6 @@ tags:
 description: Number Series 
 ---
 
-![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
-
 # Number Series
 *Note: the below documentation is provided by Microsoft. To make sure
 you are reading the most up to date documentation, please use the

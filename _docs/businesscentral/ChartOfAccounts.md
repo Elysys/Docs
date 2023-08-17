@@ -1,12 +1,10 @@
 ---
 title: Chart of Accounts
 tags: 
- - Accoutns
+ - Accounts
  - Setup
 description: Chart of Accounts
 ---
-
-![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
 # Chart of Accounts
 

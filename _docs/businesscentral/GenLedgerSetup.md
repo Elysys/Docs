@@ -6,8 +6,6 @@ tags:
 description: General Ledger Setup 
 ---
 
-![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
-
 # General Ledger Setup
 
 *Note: the below documentation is provided by Microsoft. To make sure

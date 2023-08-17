@@ -6,8 +6,6 @@ tags:
 description: Dimensions 
 ---
 
-![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
-
 # Dimensions
 *Note: the below documentation is provided by Microsoft. To make sure
 you are reading the most up to date documentation, please use the
