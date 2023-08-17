@@ -1,3 +1,14 @@
+- title: Business Central
+  url: "docs/businesscentral/ChartOfAccounts"
+  links:
+    - title: "Chart Of Accounts"
+      url: "docs/businesscentral/ChartOfAccounts"
+    - title: "General Ledger Setup"
+      url: "docs/businesscentral/GenLedgerSetup"  
+    - title: "Dimensions"
+      url: "docs/businesscentral/DimensionValues"
+    - title: "Number Series"
+      url: "docs/businesscentral/NumberSeries"  
 - title: Elysys Wealth
   url: "docs/wealth/SynchWealthwithBI"
   links:
