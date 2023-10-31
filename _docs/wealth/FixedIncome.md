@@ -20,10 +20,10 @@ multiple asset classes managed within the module:
 -   Preferred Shares.
 
 ![A diagram with text and images Description automatically generated
-with medium confidence](](../../assets/img/FixedIncome/image001.png)
+with medium confidence](../../assets/img/FixedIncome/image001.png)
 
-![Graphical user interface, application Description automatically generated](](../../assets/img/FixedIncome/image002.png)
-![Graphical user interface, application Description automatically generated](](../../assets/img/FixedIncome/image003.png)
+![Graphical user interface, application Description automatically generated](../../assets/img/FixedIncome/image002.png)
+![Graphical user interface, application Description automatically generated](../../assets/img/FixedIncome/image003.png)
 
 
 ## Investment General Setup
@@ -35,7 +35,7 @@ or Edit*
 
 ![Graphical user interface, text, application, email, website
 Description automatically
-generated](](../../assets/img/FixedIncome/image004.png)
+generated](../../assets/img/FixedIncome/image004.png)
 
 This page contains the investment module setup. This setup needs to be
 done at the early stage and before any entries can be made by the
@@ -85,7 +85,7 @@ Equity.
     logic.
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image005.png)
+generated](../../assets/img/FixedIncome/image005.png)
 
 ## Investment Posting Group and Coupon Posting Group
 
@@ -93,10 +93,10 @@ Once all investment types are created, the accounting rules must be
 specified using Investment posting group.
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image006.png)
+generated](../../assets/img/FixedIncome/image006.png)
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image007.png)
+generated](../../assets/img/FixedIncome/image007.png)
 
 Accounting rules allows Elysys Wealth to know which account to use in
 the process of creating all accounting entries when booking investment
@@ -138,7 +138,7 @@ In "Bonds, Preferred Shares, Structured Notes" select "New" or "Edit"
 from the ribbon. The following interface comes up:
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image008.png)
+generated](../../assets/img/FixedIncome/image008.png)
 
 The following fields need to be filled in:
 
@@ -185,12 +185,12 @@ access them by clicking on the green tiles from the home page), or by
 accessing the Front Office or Middle Office journals.
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image009.png)
+generated](../../assets/img/FixedIncome/image009.png)
 
 At the contract level, the following fields are required:
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image010.png)
+generated](../../assets/img/FixedIncome/image010.png)
 General Section:
 
 -   Portfolio Code: specifies the contained/ bucket that will store the
@@ -225,7 +225,7 @@ capitalised (factored into the cost). As a prerequisite, the fee card
 must exist prior to adding it to the contract.
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image011.png)
+generated](../../assets/img/FixedIncome/image011.png)
 
 ### 2. Portfolio Revaluation {#portfolio-revaluation .unnumbered}
 
@@ -233,7 +233,7 @@ generated](](../../assets/img/FixedIncome/image011.png)
 Home Periodic Activities Button: Portfolio Revaluation)**
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image012.png)
+generated](../../assets/img/FixedIncome/image012.png)
 
 As a prerequisite, user must add the valuation/ price to the Market
 Value table. The required fields are:
@@ -243,7 +243,7 @@ Value table. The required fields are:
 -   Last Trading Price (ICY).
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image013.png)
+generated](../../assets/img/FixedIncome/image013.png)
 
 Once the price is added, user can open the Portfolio Revaluation
 Journal and run the Suggest function, specifying the Revaluation Date
@@ -253,7 +253,7 @@ user will add specific filters before running the Suggest function.
 The process is done at the company level.
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image014.png)
+generated](../../assets/img/FixedIncome/image014.png)
 
 ### 3. Coupon Journal and Structured Notes Coupon Journal 
 
@@ -270,7 +270,7 @@ running the Suggest function. The process is done at the company
 level.
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image015.png)
+generated](../../assets/img/FixedIncome/image015.png)
 
 ### 4. Coupons Accrued Journal 
 
@@ -286,10 +286,10 @@ filters before running the Suggest function. The process is done at
 the company level.
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image016.png)
+generated](../../assets/img/FixedIncome/image016.png)
 
 ![A screenshot of a computer Description automatically
-generated](](../../assets/img/FixedIncome/image017.png)
+generated](../../assets/img/FixedIncome/image017.png)
 
 ##  Navigate functions 
 
