@@ -281,7 +281,7 @@ Then run the \"Suggest Settlement\" function and enter the date
 to process all your settlement entries in the \"Settlement Date\"
 field.
 
-## 4. Navigate functions {#navigate-functions .unnumbered}
+## 4. Navigate functions
 
 ### Investment Ledger Entries
 

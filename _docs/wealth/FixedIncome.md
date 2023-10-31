@@ -227,7 +227,7 @@ must exist prior to adding it to the contract.
 ![A screenshot of a computer Description automatically
 generated](../../assets/img/FixedIncome/image011.png)
 
-### 2. Portfolio Revaluation {#portfolio-revaluation .unnumbered}
+### 2. Portfolio Revaluation
 
 **Go to: Home ➔ Bonds ➔ Valuation ➔ Button: Portfolio Revaluation (or
 Home Periodic Activities Button: Portfolio Revaluation)**
