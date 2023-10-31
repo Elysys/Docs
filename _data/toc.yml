@@ -18,6 +18,10 @@
       url: "docs/wealth/SynchWealthwithBI"
     - title: "Dividends and Coupons"
       url: "docs/wealth/DividendsCoupons"  
+    - title: "Fixed Income"
+      url: "docs/wealth/FixedIncome"  
+    - title: "Equity like"
+      url: "docs/wealth/EquityFundsAlternativeInvestments"  
     - title: "Options"
       url: "docs/wealth/options_info"  
 - title: Elysys Loans
