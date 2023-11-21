@@ -7,7 +7,7 @@ description: How to setup and use the the Equity linked note in Elysys Wealth.
 ---
 ![/assets/img/ElysysWealthLogo.png](../../assets/img/ElysysWealthLogo.png) 
 
-# Introduction
+# Equity Linked Notes
 
 Equity Linked Notes fall into the Structured Notes product category for
 which coupon payments are based on the performance of the underlying

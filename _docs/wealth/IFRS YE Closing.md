@@ -7,7 +7,7 @@ description: How to setup and use the the IFRS YE Closing module in Elysys Wealt
 ---
 ![/assets/img/ElysysWealthLogo.png](../../assets/img/ElysysWealthLogo.png) 
 
-# Introduction
+# IFRS Year End Closing
 
 The **IFRS Year End Closing** process moves all unrealized market and
 forex balances, for each investment and instrument, to its corresponding
@@ -35,7 +35,7 @@ fiscal year and once the revaluation is posted.
 
 ![](../../assets/img/IFRSYEClosing/image001.png)
 
-### Year-End Accounting Entries
+#### Year-End Accounting Entries
 
 -   **IFRS YE closing** writes off the balance sheet unrealized market
     and forex accounts to the corresponding balance sheet cost accounts.
@@ -43,12 +43,12 @@ fiscal year and once the revaluation is posted.
 -   **Standard BC YE closing** writes off the income statement accounts
     to the balance sheet's Retained Earnings account.
 
-#### Elysys IFRS Year End Closing
+##### Elysys IFRS Year End Closing
 
 ![Table Description automatically generated with medium
 confidence](../../assets/img/IFRSYEClosing/image002.png)
 
-#### Loan & Deposit IFRS Year End Closing
+##### Loan & Deposit IFRS Year End Closing
 
 ![](../../assets/img/IFRSYEClosing/image003.png)
 

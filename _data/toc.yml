@@ -26,7 +26,7 @@
       url: "docs/wealth/options_info"  
     - title: "Equity Linked Notes"
       url: "docs/wealth/ELN" 
-    - title: "IFRS YE Closing"
+    - title: "IFRS Year End Closing"
       url: "docs/wealth/IFRS YE Closing"  
 - title: Elysys Loans
   url: "docs/loans/loansanddeposits"
