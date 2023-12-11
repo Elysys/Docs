@@ -34,6 +34,7 @@ Button: New**
 
 ![A screenshot of a computer Description automatically
 generated](../../assets/img/LoansModule/image004.jpg)
+
 *Figure 1 Loan & Deposit General Setup*
 
 *General FastTab:* select the Portfolio and the Instrument dimensions to
@@ -185,6 +186,7 @@ be filled in on the Loan Card.
 
 ![Graphical user interface, text, application, email Description
 automatically generated](../../assets/img/LoansModule/image005.jpg)
+
 *Figure 2 Loan Card, General FastTab*
 
 *Settings FastTab*
@@ -234,6 +236,7 @@ automatically generated](../../assets/img/LoansModule/image005.jpg)
 
 ![Graphical user interface, application Description automatically
 generated](../../assets/img/LoansModule/image006.jpg)
+
 *Figure 3 Loan Card, Settings FastTab*
 
 *Postpone FastTab*
@@ -246,6 +249,7 @@ generated](../../assets/img/LoansModule/image006.jpg)
 
 ![Graphical user interface Description automatically generated with
 medium confidence](../../assets/img/LoansModule/image007.jpg)
+
 *Figure 4 Loan Card, Postpone FastTab*
 
 *Facility Management FastTab*
@@ -262,6 +266,7 @@ medium confidence](../../assets/img/LoansModule/image007.jpg)
 
 ![Graphical user interface Description automatically generated with
 medium confidence](../../assets/img/LoansModule/image008.jpg)
+
 *Figure 5 Loan Card, Facility Management FastTab*
 
 ## 4. Loan Types
@@ -336,6 +341,7 @@ payments.
 
 ![Table Description automatically generated with medium
 confidence](../../assets/img/LoansModule/image010.jpg)
+
 *Figure 7 Payment Schedule page*
 
 ## 8. Fees 
@@ -358,6 +364,7 @@ Card for each type of fee.
     against.
 
 ![](media/image011.jpg)
+
 *Figure 8 Creation of a new Fee Card*
 
 ## 9. Journals & Posting procedures 
@@ -370,6 +377,7 @@ Card for each type of fee.
 
 ![Graphical user interface, text, application, table Description
 automatically generated](media/image013.jpg)
+
 *Figure 9 Loan & Deposit Journal window*
 
  The Loan & Deposit Journal is used to generate and post loan
@@ -415,6 +423,7 @@ automatically generated](media/image013.jpg)
  ![Graphical user interface, text, application, email Description
  automatically
  generated](media/image014.jpg)
+ 
 *Figure 10 Accrued Interest Journal window*
 
  The Accrued Interest Journal is used to generate and post accrued
@@ -532,6 +541,7 @@ Prerequisites:
 ## 10. Functions & Navigation
 
 ![](media/image018.jpg)
+
 *Figure 11 Loan Card Ribbon, Tab Functions*
 
 ### Function: Simulation
@@ -601,6 +611,7 @@ The Date of Early Repayment must be:
  ![Graphical user interface, text, application, email Description
  automatically
  generated](media/image019.jpg)
+ 
 *Figure 12 Loan Renewal with capitalisation of interest pop-up window*
 
  ![Graphical user interface, text, email Description automatically
@@ -730,4 +741,5 @@ Link Dimensions to the Loan. These Dimensions will be linked to all
 ledger entries linked to the underlying Loan No.
 
 ![](media/image023.jpg)
+
 *Figure 15 Accessing the Dimension page from the loan card*
