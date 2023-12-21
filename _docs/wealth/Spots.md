@@ -7,7 +7,7 @@ description: How to setup and use the Fixed Income module.
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
-***Elysys Wealth -- Spots***
+# ***Elysys Wealth -- Spots***
 
 This document describes the standard functionalities of the Spots module
 within Elysys Wealth, as well as the required setup.
