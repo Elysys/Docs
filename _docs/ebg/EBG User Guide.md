@@ -32,7 +32,7 @@ contains the following data:
 
 ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image001.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image001.png)
 
-## RECOMMANDATIONS
+## RECOMMENDATIONS
 
 **We highly recommend that all the following steps are taken in *one
 entity* dedicated to EBG processes.**
