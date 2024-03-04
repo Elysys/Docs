@@ -1,104 +1,144 @@
 ---
-title: Elysys Bank Gateway (EBG) User Guid
+title: Elysys Electronic Bank Gateway Guide 2.0
 tags: 
  - EBG
  - Setup
 description: How to setup EBG client Side
 ---
-
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
-# **Elysys Bank Gateway (EBG) User Guide**
 
-Flow Diagram
+# INTRODUCTION
 
-![/assets/img/EBGFlowDiagram.jpeg](../../assets/img/EBGFlowDiagram.jpeg)
+This document is accompanying the Elysys **Electronic Bank Gateway** --
+**EBG** and it has been created for the purpose of providing users with
+brief guidance on how to set up and start with the use of the EBG
+solution and getting familiar with the existing interfaces. It will
+cover basics such as how the data is structured and what reports can be
+built with each set of fields.
 
-**Components:**
+ 
 
-## 1. Connection Setup
+Having that in mind, please note that the standard package of interfaces
+contains the following data:
 
-To connect business central with the service please search for the page “EBG Connection Setup”.
+-   Currency Exchange rates (i.e ECB),
 
-Elysys will provide you a Login and password to connect to the service. 
+-   Market prices (i.e EDI),
 
-Once filled in you could use the “Test Connection” button to control the network status and authentication.
+-   Bank interfaces (i.e Goldman Sachs, JP Morgan, etc).
 
-![/assets/img/EBGSetupPage.png](../../assets/img/EBGSetupPage.png)
+## VISUAL REPRESENTATION OF THE SETUP PROCESS
 
-## 2. Services List
+![/assets/img/ElysysElectronicBankGatewayGuide2.0/image001.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image001.png)
 
-Once the connection is set, you will be able to see the list of available services the provider have setup for you, using the page “EBG Services”.
+## RECOMMANDATIONS
 
-Opening this page can took few seconds as the system is downloading the services from the server through web service.
+**We highly recommend that all the following steps are taken in *one
+entity* dedicated to EBG processes.**
 
-![/assets/img/EBGServicePage.jpeg](../../assets/img/EBGServiceSetupPage.jpeg)
+![/assets/img/ElysysElectronicBankGatewayGuide2.0/image003.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image003.png)
 
-## 3. Setup a service
+## HOW TO ACCESS THE EBG INTERFACES ON THE CLIENT SIDE
 
-In order to be able to run a service, it is needed to specify the company you want it to run the service on. Click on the column “Selected Company” to open company list.
+Once the interface is enabled from Elysys side, it will appear in
+Business Central on the client side. To access them, you must search for
+**\"EBG Services\".**
 
-## 4. Setup Bank Interface 
-
-Bank Interface need additional setup once the company have been selected. Open the configuration page using “Setup” button from the Service list 
-
-![/assets/img/EBGServiceSetupPage.jpeg](../../assets/img/EBGServiceSetupPage.jpeg)
-
-1. **Transaction Date Filter** : Specify a starting date to begin the transaction import, or blank for no filter. When the interface is executed, only transaction date >= this value will be proceed.
-2. **Safekeeping account mapping:** Specify Business Central mapping with the accounts provided by the bank. Those are not mandatory but highly recommended to reduce manual input.
-
-   1. "Destination Company" is the company used to import transaction related to the account
-   2. "Portfolio Code" is the Elysys Wealth Portfolio to affect investment transaction on Front Office
-   2. "Bank Account" is the Business Central Bank Account to be affected on cash movement in General journal
-   2. "Inv. Journal Template/Batch" is used to specify in what journal the investment transaction will be imported. Front Office Only
-   2. "Gen. Journal Template/Batch" is used to specify in what general journal cash operations will be imported
+| | |
+| ---        |           --- |
+| 1. From BC, access the list of available services. | ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image005.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image005.png) |
+| 2. Depending on what services are enabled from Elysys side, you will find theme listed here, in the **“EBG Services”** | ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image007.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image007.png)|
 
 
-## 5. Asset Class & Transaction Type Mapping
+## How to setup each interface on the client side ?
 
-Specify the relation between specific codes used by Banks and asset class or transaction type in Business Central and Elysys Wealth.
+Please note that the standard package of interfaces contains three
+different types of interfaces and further, you will find the set-up
+guide for each one of them.
 
-**Asset Class Mapping:** 
+### CURRENCY EXCHANGE RATE
+| | |
+| ---        |           --- |
+| 1.	**Currency Exchange Rate:** this interface will import the exchange rates for the selected companies. | ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image009.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image009.png) Next, you have the following functionalities available for you: </br> 1.	`Selected Companies`: you can drill down on the number and select in what company the interface will update the exchange rates. This step is a pre-requisite before running the import or scheduling the interface. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png) 2.	`Schedule`: you can schedule the job queue to be executed daily, weekly, etc. After you add the desired parameters, you run the "Restart" function to schedule it.   ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image013.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image013.png) 3.	`Import`: you can manually run an import, being able to specify the time interval in between you want to update the exchange rates. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png)  |
 
-It is used to import investment card from the “security information” provided by the bank
 
-![/assets/img/EBGAssetClassmapping.jpeg](../../assets/img/EBGAssetClassmapping.jpeg)
+### MARKET PRICES
+| | |
+| ---        |           --- |
+| 2. **Market prices:** this interface will import the daily prices for the selected companies. |  ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image017.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image017.png) Next, you have the following functionalities available for you: </br> 4.	`Selected Companies`: you can drill down on the number and select in what company the interface will update the market prices. This step is a pre-requisite before running the import or scheduling the interface. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png) 5.	`Schedule`: you can schedule the job queue to be executed daily, weekly, etc. After you add the desired parameters, you run the **"Restart"** function to exceute it.  </br> 6.	`Execute`: you can manually run an import, being able to specify the time interval in between you want to update the exchange rates. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png)
+ |
 
-During the import, the process look at each “Security Information”, verify if the investment card already exists in Business Central, then create it if it does not exists yet using Asset Class define in this table. 
+### BANK INTERFACES
 
-**!! If “Asset Class” is set to blank here, related securities will not be imported.** 
+A bank interface is more complex than the previous ones and therefore,
+the set up requires more details.
 
-**Transaction Type Mapping**
+#### *How to set it up ?*
 
-It is used to import the “Cash operations” in **General Journal**
+In Business Central, search for **\"EBG Services\"** to access the
+interface. Depending on the client, you might see one interface or
+multiple interfaces. For this document, we focus on only one bank
+interface.
 
-![/assets/img/EBGTransactionmapping.jpeg](../../assets/img/EBGTransactionmapping.jpeg)
+![/assets/img/ElysysElectronicBankGatewayGuide2.0/image021.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image021.png)
 
-During the import, the process look at “Cash Operation” which have not been imported yet. Then according the Operation Type, will write in General Journal a line using Document Type and G/L Account No. define here.
+Next, you have the following functionalities available for you:
 
-Document Type and Account No. can be left blank, the operation will be imported. You can remove a line to stop related operations imports.
+1.  **`Selected Companies`**: you can drill down on the number and select
+    in what company the interface will import the data. This step is a
+    pre-requisite before running the import or scheduling the interface.
 
-Gen. Journal Line are imported as following :
+2.  `Schedule`: you can schedule the job queue to be executed daily,
+    weekly, etc. After you add the required parameters, you run the
+    \"Restart\" function to schedule it.
 
-- Account Type = Bank Account
-- Account No. = Bank Account set on “Safekeeping Account” related to the operation
-- Document Type = Gen. Document Type set on “Transaction Type Mapping” related to the operation
-- Bal. Account Type = “G/L Account”
-- Bal. Account No. = “G/L Account No.” set on “Transaction Type Mapping” related to the operation
-- Amount, Date and Description = as provided on the “Cash Operation” from the bank
+3.  `Import`: you can manually run an import.
 
-## 6. Execute & Schedule
+4.  `Setup`: in this section you must set up and configure the bank
+    accounts, the asset classed and the transaction types. Here are two
+    categories to be configured:
 
-On the “EBG Services” list page, you can execute a service manually. The system will then try to integrate data from the service in Business Central. You can use “Execute” button to try a service manually.
+    1.  **General**
+        </br>![/assets/img/ElysysElectronicBankGatewayGuide2.0/image023.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image023.png)
+        1. Asset Class Mapping: specifies the mapping from the bank side with the mapping done in Elysys for each asset class and investment type. Usually it\'s prepopulated, but the user can manually edit the list. If the list is blank, the user can use the function **\"Download From Server\"** to automatically populate the list.</br> `This is a pre-requisite for the securities to be imported.`
+        
+        2. Transaction Type Mapping: specifies the mapping for the cash operations. According to the Operation Type, will write in General Journal a line using Document Type and G/L Account No. defined here. Document Type and Account No. can be left blank, and the operation will still be imported. You can remove a line to stop related operations imports.
+        
 
-While execute a service, the system may create a “Message” : this is the set of data that is imported in business central.
+    2.  **SafeKeeping Accounts:** specifies the mapping in between the
+    accounts coming from the bank and the **bank accounts/ portfolio/
+    company/ front-office journals** from Elysys.  ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image025.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image025.png)
 
-When you’re happy with a service, the integration can be automated, you would then use the “Schedule” button which simply generate a Job Queue to run the service on a daily basis.
 
-![/assets/img/EBGInterfaceJob.png](../../assets/img/EBGInterfaceJob.png)
 
-You can still verify the history of what data were integrated using the message button :
+#### There are other useful sections on the interface dashboard.
 
-![/assets/img/EBGMessages.png](../../assets/img/EBGMessages.png)
+![/assets/img/ElysysElectronicBankGatewayGuide2.0/image027.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image027.png)
 
-The columns “Modified Record” and “Inserted Record” are clickable and show the very detail of what data have been integrated in business central.
+-   **Securities info:** specifies the details related to the security,
+
+-   **Sec. Positions:** specifies the details related to the positions,
+
+-   **Sec. Transactions:** specifies the details for each transaction
+    that will be imported in the front-office journals. Furthermore, the
+    imported transactions will be marked as **\"Imported\".** This way
+    the system will not import twice the same transaction, only if the
+    user is manually executing the function **\"Unmark Imported\".**
+
+![/assets/img/ElysysElectronicBankGatewayGuide2.0/image029.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image029.png)
+
+-   **Cash Positions:** specifies the cash position for each bank
+    account,
+
+-   **Cash Operations:** specifies the cash transactions that will be
+    imported in the general journal.
+
+Once the interface is executed, the transactions **will be populated in
+the front-office journals**, categorised by asset class. The user must
+manually **post the journal afterwards**.
+
+![/assets/img/ElysysElectronicBankGatewayGuide2.0/image031.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image031.png)
+ 
+
+![/assets/img/ElysysElectronicBankGatewayGuide2.0/image033.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image033.png)

@@ -90,22 +90,15 @@ use the **Master Catalog Setup module** in Elysys Wealth.
 
 5.  Select the tables you want to synchronise with the master.
 
-    a.  First, you can select a Released company and navigate to the
-        *Table List*. The *Copy Table List* function can be used to skip
-        this process.
+    a. If **at least one company has already been setup**, select the new record created in the previous step, then use the Copy Tables function to duplicate the synchronised tables setup from an existing company. ![](../../assets/img/MasterCatalogSetup/image016.png) All tables & table exceptions will be copied across to the new company.
     
-       ![](../../assets/img/MasterCatalogSetup/image013.jpg)
-    
-    b.  To select all the tables, you can click anywhere in the table and
-        press Ctrl + A (like in Excel). You navigate back to the master
-        company setup, select the line with the target company, access the
-        Table List and paste the lines (like in excel).
+    b.  b.	If it’s the **first company to be set up** as part of the synchronisation process, navigate to the Table List. ![](../../assets/img/MasterCatalogSetup/image017.png) All tables requiring synchronisation with the Master Company will need to be listed in this page. For each table, field exceptions (fields values which should not synch for a specific table) can be set up as well.
+    We recommend take advise from an Elysys consultant to proceed to the first company setup.
 
-       ![](../../assets/img/MasterCatalogSetup/image014.jpg)
 
 6.  Then you select the line with the new company, navigate to *Function
     \--\ Release.*
 
     ![](../../assets/img/MasterCatalogSetup/image015.jpg)
 
-7.  The process is finished.
+7. The process is finished and the new company is being synchronized. An error message shall pop up when trying to add records from the synchronized companies for the synchronized tables. New data should be entered from the Master Company only.

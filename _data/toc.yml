@@ -60,6 +60,11 @@
       url: "docs/intercompany/INVTransferJournal"
     - title: "Multi-Company General Journal"
       url: "docs/intercompany/MulticompanyGeneralJournal"
+- title: Elysys Analytics
+  url: "docs/analytics/DataDictionaryAnalytics"
+  links:
+    - title: "Data Dictionary"
+      url: "docs/analytics/DataDictionaryAnalytics"
 - title: Toolkit
   url: "docs/toolkit/DataMigrationManual"
   links:
