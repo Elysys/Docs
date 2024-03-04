@@ -142,6 +142,7 @@ and technical capacities.
 | **GL Underlying Amount** | Specifies the GL underlying amount | Measure |
 
 ### IRR – fields related to the calculation of IRR for the private equity funds
+
 | Field | Meaning | Type |
 |:--- | :--- | :---|
 | **Cashflow Amount** | Specifies the cashflow amount | Measure |
@@ -149,6 +150,7 @@ and technical capacities.
 | **IRR ex MV** | Specifies the IRR excluding the market value | Measure |
 
 ### Portfolio – fields related to the dimensions/ aggregation levels
+
 | Field | Meaning | Type |
 |:--- | :--- | :---|
 | **Company** | Specifies the company code | Dimension |
@@ -208,6 +210,7 @@ and technical capacities.
 | **Loan Deposit Rate Base** | Specifies the loan deposit rate base | Dimension |
 
 ### Position – fields related to the position of various asset classes
+
 | Field | Meaning | Type |
 |:--- | :--- | :---|
 | **Closed** | Specifies if the position is closed/ matured | Dimension |
@@ -283,6 +286,7 @@ and technical capacities.
 | **Rate Floating** | Specifies the spread or the fix part of the floating rate | Measure |
 
 ### Position Investment – fields related to the position of various asset classes
+
 | Date of Issue | Specifies the issue date | Dimension |
 |:--- | :--- | :---|
 | **First Coupon Date** | Specifies the date of the first coupon | Measure |
@@ -339,6 +343,7 @@ and technical capacities.
 | **Unrealised Gain Loss Provisional ICY** | Specifies the unrealised gain loss amount for posted and pending trades in investment currency | Measure |
 
 ### Position Options – fields related to the options position
+
 | Contract Type | Specifies the contract type, call or put | Dimension |
 |:--- | :--- | :---|
 | **Opt. Delta** | Specifies the Delta Greek of an open option contract | Measure |
@@ -354,6 +359,7 @@ and technical capacities.
 | **Underlying Price ICY** | Specifies the price of the underlying in investment currency | Measure |
 
 ### Transaction – fields related to the transactional view
+
 | AssetClass | Specifies the asset class of the investment linked to the transaction | Dimension |
 |:--- | :--- | :---|
 | **Closed** | Specifies if the position was closed or not | Dimension |
@@ -374,6 +380,7 @@ and technical capacities.
 | **Transaction Quantity** | Specifies the traded quantity | Measure |
 
 ### Vendor – fields related to the vendor transactions
+
 | AssetClass | Specifies the vendor posting group | Dimension |
 |:--- | :--- | :---|
 | **Company** | Specifies the company code in which the transaction was posted | Dimension |
