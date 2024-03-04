@@ -58,12 +58,14 @@ different types of interfaces and further, you will find the set-up
 guide for each one of them.
 
 ### CURRENCY EXCHANGE RATE
+
 | | |
 | ---        |           --- |
 | 1.	**Currency Exchange Rate:** this interface will import the exchange rates for the selected companies. | ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image009.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image009.png) Next, you have the following functionalities available for you: </br> 1.	`Selected Companies`: you can drill down on the number and select in what company the interface will update the exchange rates. This step is a pre-requisite before running the import or scheduling the interface. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png) 2.	`Schedule`: you can schedule the job queue to be executed daily, weekly, etc. After you add the desired parameters, you run the "Restart" function to schedule it.   ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image013.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image013.png) 3.	`Import`: you can manually run an import, being able to specify the time interval in between you want to update the exchange rates. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png)  |
 
 
 ### MARKET PRICES
+
 | | |
 | ---        |           --- |
 | 2. **Market prices:** this interface will import the daily prices for the selected companies. |  ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image017.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image017.png) Next, you have the following functionalities available for you: </br> 4.	`Selected Companies`: you can drill down on the number and select in what company the interface will update the market prices. This step is a pre-requisite before running the import or scheduling the interface. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png) 5.	`Schedule`: you can schedule the job queue to be executed daily, weekly, etc. After you add the desired parameters, you run the **"Restart"** function to exceute it.  </br> 6.	`Execute`: you can manually run an import, being able to specify the time interval in between you want to update the exchange rates. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png)
