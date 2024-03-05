@@ -7,7 +7,7 @@ description: How to setup EBG client Side
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
-# INTRODUCTION
+# Introduction
 
 This document is accompanying the Elysys Analytics platform and has been
 created for the purpose of providing users with brief guidance on how to
@@ -19,11 +19,11 @@ Having that in mind, please note that the standard package of reports
 contains the minimum, so users can extend it according to their needs
 and technical capacities.
 
-## ANALYTICAL FIELDS ARE STRUCTURED IN THE FOLLOWING TABLES
+## Analytical Fields Are Structured in the Following Tables
 
 ![/assets/img/DataDictionaryAnalytics2.0/image001.png](../../assets/img/DataDictionaryAnalytics2.0/image001.png)
 
-## THERE ARE THREE DIFFERENT TYPES OF FIELDS:
+## There Are Three Different Types of Fields:
 
 -   Dimensions: specifies the aggregation level i.e Company, Portfolio,
     Investment,
@@ -35,7 +35,7 @@ and technical capacities.
     anybody with an access to the report. It's similar to any new cell
     in Excel.
 
-## TABLES
+## Tables
 
 ### Account Schedule -- fields related to the financial reports i.e balance sheet and income statement
 
