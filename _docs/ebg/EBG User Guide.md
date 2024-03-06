@@ -68,7 +68,7 @@ guide for each one of them.
 
 | | |
 | ---        |           --- |
-| 2. **Market prices:** this interface will import the daily prices for the selected companies. |  ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image017.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image017.png) Next, you have the following functionalities available for you: </br> 4.	`Selected Companies`: you can drill down on the number and select in what company the interface will update the market prices. This step is a pre-requisite before running the import or scheduling the interface. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png) 5.	`Schedule`: you can schedule the job queue to be executed daily, weekly, etc. After you add the desired parameters, you run the **"Restart"** function to exceute it.  </br> 6.	`Execute`: you can manually run an import, being able to specify the time interval in between you want to update the exchange rates. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png)
+| 2. **Market prices:** this interface will import the daily prices for the selected companies. |  ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image017.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image017.png) Next, you have the following functionalities available for you: <br> 4.	`Selected Companies`: you can drill down on the number and select in what company the interface will update the market prices. This step is a pre-requisite before running the import or scheduling the interface. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image011.png) 5.	`Schedule`: you can schedule the job queue to be executed daily, weekly, etc. After you add the desired parameters, you run the **"Restart"** function to exceute it.  <br> 6.	`Execute`: you can manually run an import, being able to specify the time interval in between you want to update the exchange rates. ![/assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image015.png)
  |
 
 ### Bank Interfaces
@@ -102,8 +102,8 @@ Next, you have the following functionalities available for you:
     categories to be configured:
 
     1.  **General**
-        </br>![/assets/img/ElysysElectronicBankGatewayGuide2.0/image023.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image023.png)
-        1. Asset Class Mapping: specifies the mapping from the bank side with the mapping done in Elysys for each asset class and investment type. Usually it\'s prepopulated, but the user can manually edit the list. If the list is blank, the user can use the function **\"Download From Server\"** to automatically populate the list.</br> `This is a pre-requisite for the securities to be imported.`
+        <br>![/assets/img/ElysysElectronicBankGatewayGuide2.0/image023.png](../../assets/img/ElysysElectronicBankGatewayGuide2.0/image023.png)
+        1. Asset Class Mapping: specifies the mapping from the bank side with the mapping done in Elysys for each asset class and investment type. Usually it\'s prepopulated, but the user can manually edit the list. If the list is blank, the user can use the function **\"Download From Server\"** to automatically populate the list.<br> `This is a pre-requisite for the securities to be imported.`
         
         2. Transaction Type Mapping: specifies the mapping for the cash operations. According to the Operation Type, will write in General Journal a line using Document Type and G/L Account No. defined here. Document Type and Account No. can be left blank, and the operation will still be imported. You can remove a line to stop related operations imports.
         
