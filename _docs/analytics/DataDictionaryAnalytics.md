@@ -1,9 +1,8 @@
 ---
-title: Elysys Electronic Bank Gateway Guide 2.0
+title: Data Dictionary Analytics
 tags: 
- - EBG
- - Setup
-description: How to setup EBG client Side
+ - Analytics
+description: How to start with the use of this BI solution
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 

@@ -2,7 +2,6 @@
 title: Master Catalog Setup
 tags: 
  - Elysys Wealth
- - Elysys Analytics
 description: How to create a new company and use the **Master Catalog Setup module** in Elysys Wealth
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
@@ -25,10 +24,9 @@ use the **Master Catalog Setup module** in Elysys Wealth.
 
     ![](../../assets/img/MasterCatalogSetup/image002.jpg)
 
-3.  Select *New Create a New Company* (say Yes/ Okay for the first
-    window)
+3.  Select the Master Company in the existing Company List, then click the *Copy* function in the ribbon
 
-    ![](../../assets/img/MasterCatalogSetup/image003.jpg)
+    ![](../../assets/img/MasterCatalogSetup/image018.png)
 
 4.  Enter the name of the company,
 
@@ -37,10 +35,11 @@ use the **Master Catalog Setup module** in Elysys Wealth.
     b.  For a final version (or official company), we recommend using
         the real name (*Company Name*)
 
-5.  Select - *Create New - No Data* and validate the next steps by
-    choosing the default option (*Next \--\ Next \--\ Finish*).
+5.  Select *I understand* and click OK. Then wait 5-10 minutes for the company to be fully created and available for use. 
 
-    ![](../../assets/img/MasterCatalogSetup/image004.jpg)
+    ![](../../assets/img/MasterCatalogSetup/image019.png)
+
+    The Setup Status in the company list will show *Completed* when ready.
 
 6.  Next, switch to the new company using the *My Settings* section.
 
