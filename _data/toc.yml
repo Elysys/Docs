@@ -12,24 +12,20 @@
 - title: Elysys Wealth
   url: "docs/wealth/SynchWealthwithBI"
   links:
-    - title: "Master Catalog setup"
-      url: "docs/wealth/MasterCatalogSetup"
-    - title: "Synch. Wealth with BI"
-      url: "docs/wealth/SynchWealthwithBI"
-    - title: "Dividends and Coupons"
-      url: "docs/wealth/DividendsCoupons"  
+    - title: "Shares (Equity-like, Funds)"
+      url: "docs/wealth/EquityFundsAlternativeInvestments"  
     - title: "Fixed Income"
-      url: "docs/wealth/FixedIncome"  
+      url: "docs/wealth/FixedIncome"
+    - title: "Options"
+      url: "docs/wealth/options_info"  
     - title: "Forwards"
       url: "docs/wealth/Forwards" 
     - title: "Spots"
       url: "docs/wealth/Spots" 
-    - title: "Equity like"
-      url: "docs/wealth/EquityFundsAlternativeInvestments"  
-    - title: "Options"
-      url: "docs/wealth/options_info"  
     - title: "Equity Linked Notes"
-      url: "docs/wealth/ELN" 
+      url: "docs/wealth/ELN"
+    - title: "Dividends and Coupons"
+      url: "docs/wealth/DividendsCoupons"  
     - title: "IFRS Year End Closing"
       url: "docs/wealth/IFRS YE Closing"  
 - title: Elysys Loans
@@ -39,6 +35,22 @@
       url: "docs/loans/LoansModule"
     - title: "Deposits"
       url: "docs/loans/ElysysDepositsManual"
+- title: Elysys Multi-Company
+  url: "docs/intercompany/CashTransferJournal"
+  links:
+    - title: "Multi-Company General Journal"
+      url: "docs/intercompany/MulticompanyGeneralJournal"
+    - title: "Intercompany Payments"
+      url: "docs/intercompany/IntercoPaymentJournal"
+    - title: "Cash Transfers"
+      url: "docs/intercompany/CashTransferJournal" 
+- title: Elysys Analytics
+  url: "docs/analytics/DataDictionaryAnalytics"
+  links:
+    - title: "Synch. Wealth with BI"
+      url: "docs/wealth/SynchWealthwithBI"
+    - title: "Data Dictionary"
+      url: "docs/analytics/DataDictionaryAnalytics"
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
@@ -48,31 +60,18 @@
   url: "docs/corporate/Setup"
   links:
     - title: "Corporate Setup"
-      url: "docs/corporate/Setup"  
-- title: Elysys Multi-Company
-  url: "docs/intercompany/CashTransferJournal"
-  links:
-    - title: "Cash Transfers"
-      url: "docs/intercompany/CashTransferJournal"
-    - title: "Intercompany Payments"
-      url: "docs/intercompany/IntercoPaymentJournal"
-    - title: "Investment Transfers"
-      url: "docs/intercompany/INVTransferJournal"
-    - title: "Multi-Company General Journal"
-      url: "docs/intercompany/MulticompanyGeneralJournal"
-- title: Elysys Analytics
-  url: "docs/analytics/DataDictionaryAnalytics"
-  links:
-    - title: "Data Dictionary"
-      url: "docs/analytics/DataDictionaryAnalytics"
+      url: "docs/corporate/Setup"
 - title: Toolkit
   url: "docs/toolkit/DataMigrationManual"
   links:
+    - title: "Investment Transfers"
+      url: "docs/intercompany/INVTransferJournal"
+    - title: "Switch"
+      url: "docs/toolkit/Switch"
     - title: "Data Migration Manual"
       url: "docs/toolkit/DataMigrationManual" 
-    - title: "Switch"
-      url: "docs/toolkit/Switch"     
-      
+    - title: "Master Catalog setup"
+      url: "docs/wealth/MasterCatalogSetup"        
 - title: Documentation
   url: docs
   links:
@@ -80,8 +79,5 @@
       url: "about"
 - title: "Support"
   url: "docs/support"
-- title: "Extras"
-  url: "docs/extras"
-  links:
-    - title: Quizzes
-      url: "docs/extras/example-quiz"
+- title: "FAQ"
+  url: "docs/faq"
