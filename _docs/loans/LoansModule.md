@@ -1,9 +1,9 @@
 ---
-title: loansadndeposits
+title: Loans Manual
 tags: 
  - Loans
  - Setup
-description: How to use Loans
+description: How to setup and use the Loan module
 ---
 
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysLoansLogo.png)
