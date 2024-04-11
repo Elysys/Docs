@@ -1,9 +1,9 @@
 ---
-title: Fixed Income
+title: Forwards
 tags: 
  - Elysys Wealth
  - Forwards
-description: How to setup and use the Fixed Income module.
+description: How to setup and use the Forwards module.
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
