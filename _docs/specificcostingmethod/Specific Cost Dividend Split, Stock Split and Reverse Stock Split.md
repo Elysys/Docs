@@ -6,7 +6,7 @@ tags:
 description:
 ---
 
-![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysLoansLogo.png)
+![/assets/img/ElysysWealthLogo.png](../../assets/img/ElysysWealthLogo.png) 
 
 This document is accompanying the **Elysys Wealth** module, and it has
 been created for the purpose of providing users with brief guidance on
