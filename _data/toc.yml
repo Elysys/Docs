@@ -65,11 +65,11 @@
   url: "docs/specificcostingmethod/Specific Cost Dividend Split, Stock Split and Reverse Stock Split"
   links:
     - title: "Specific Cost Dividend Split, Stock Split and Reverse Stock Split"
-    url: "docs/specificcostingmethod/Specific Cost Dividend Split, Stock Split and Reverse Stock Split"
+      url: "docs/specificcostingmethod/Specific Cost Dividend Split, Stock Split and Reverse Stock Split"
     - title: "Specific Cost Fees Capitalization"
-    url: "docs/specificcostingmethod/Specific Cost Fees Capitalization"
+      url: "docs/specificcostingmethod/Specific Cost Fees Capitalization"
     - title: "Specific Cost Long Term Short Term Allocation"
-    url: "docs/specificcostingmethod/Specific Cost Long Term Short Term Allocation"
+      url: "docs/specificcostingmethod/Specific Cost Long Term Short Term Allocation"
 - title: Toolkit
   url: "docs/toolkit/DataMigrationManual"
   links:
