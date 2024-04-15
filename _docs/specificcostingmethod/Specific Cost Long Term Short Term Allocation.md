@@ -15,7 +15,7 @@ been created for the purpose of providing users with brief guidance on
 how to process contracts that are automatically allocated as Short Term
 or Long Term when using the specific costing method.
 
-<u>**Purpose:**</u>
+**<u>Purpose:</u>**
 
 There are 3 \"Costing Methods\" available in Elysys Wealth:
 
@@ -44,7 +44,7 @@ Investments Scope:
 
 
 
-<u>**Setup:**</u>
+**<u>Setup:</u>**
 
 Open Application Setup \> Investment General Setup \> Trade Date \>
 Costing Method
@@ -61,7 +61,7 @@ Costing Method
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture1.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture1.png)
 
 
-<u>**Purchases:**</u>
+**<u>Purchases:</u>**
 
 When activating this \"Specific\" costing method, a new editable field
 is displayed in the FO Journal, MO and BO Contracts: \"**Acquisition
@@ -166,7 +166,7 @@ Quantity:
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture7.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture7.png)
 
-<u>**ST/LT PNL Field:**</u>
+**<u>ST/LT PNL Field:</u>**
 
 The values will be reported to the following ledgers/sub-ledgers:
 
