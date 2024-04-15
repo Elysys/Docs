@@ -64,9 +64,7 @@ Costing Method
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image1.png){width="6.268055555555556in"
-height="1.9569444444444444in"}
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture1.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture1.png)
 
  
 
@@ -85,10 +83,8 @@ To post from BO to the ledgers, **this field must be filled in.**
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image2.png){width="3.9840004374453195in"
-height="2.0780719597550306in"}
 
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture2.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture2.png)
  
 
 Note:
@@ -98,7 +94,7 @@ This field is visible but not editable (greyed-out) for \"Average\" and
 
  
 
-**[Sales:]{.underline}**
+**<u>Sales:</u>**
 
  
 
@@ -126,9 +122,8 @@ disclosed when trying to run a test report or to post the contract:
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image3.png){width="6.268055555555556in"
-height="2.7256944444444446in"}
+
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture3.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture3.png)
 
 In the Column \"Sold Quantity\", the user splits the total quantity into
 the selected lots (all purchases are disclosed with the dates, remaining
@@ -145,15 +140,13 @@ quantities and amounts)
 
 Otherwise, error messages will appear:
 
-![A screenshot of a computer Description automatically
-generated](media/image4.png){width="2.4479166666666665in"
-height="1.0958333333333334in"}
+
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture4.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture4.png)
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image5.png){width="2.4479166666666665in"
-height="0.9361111111111111in"}
+
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture5.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture5.png)
 
  
 
@@ -174,9 +167,8 @@ Values are populated according to the following rule:
 This field is editable and user can modify the value if necessary
 (**\"Short Term\"** or \"**Long Term\"**)
 
-![A screenshot of a computer Description automatically
-generated](media/image6.png){width="1.1597222222222223in"
-height="1.8319444444444444in"}
+
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture6.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture6.png)
 
  
 
@@ -193,9 +185,8 @@ Quantity:
 
 >  
 
-![A screenshot of a computer Description automatically
-generated](media/image7.png){width="3.0720002187226596in"
-height="1.0960225284339458in"}
+
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture7.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture7.png)
 
 **[ST/LT PNL Field:]{.underline}**
 
@@ -209,20 +200,18 @@ The values will be reported to the following ledgers/sub-ledgers:
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image8.png){width="6.268055555555556in"
-height="1.4631944444444445in"}
+
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture8.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture8.png)
 
  
 
-![](media/image9.png){width="6.268055555555556in"
-height="0.7048611111111112in"}
+
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture9.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture9.png)
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image10.png){width="6.268055555555556in"
-height="0.8493055555555555in"}
+
+![/assets/img/SpecificCostLongTermShortTermAllocation/Picture10.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture10.png)
 
  
 

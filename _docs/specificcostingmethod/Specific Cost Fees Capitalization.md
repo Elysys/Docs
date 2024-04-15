@@ -79,9 +79,7 @@ costing method**.
 >
 >  
 >
-> ![A screenshot of a computer Description automatically
-> generated](media/image1.png){width="6.268055555555556in"
-> height="2.3569444444444443in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture1.png](../../assets/img/SpecificCostFeesCapitalization/Picture1.png)
 >
 >  
 
@@ -93,9 +91,7 @@ costing method**.
 >
 >  
 >
-> ![A screenshot of a computer Description automatically
-> generated](media/image2.png){width="4.520138888888889in"
-> height="3.920138888888889in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture2.png](../../assets/img/SpecificCostFeesCapitalization/Picture2.png)
 
 **Function Overview**
 
@@ -114,18 +110,14 @@ information --- type, code, quantity (or nominal), unit price (or clean
 price), etc. Then, add the fees to be capitalized via the *\'Investment
 Lot\'* page.
 
-![A screenshot of a computer Description automatically
-generated](media/image3.png){width="6.268055555555556in"
-height="2.7020833333333334in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture3.png](../../assets/img/SpecificCostFeesCapitalization/Picture3.png)
 
 >  
 
 Then, add the fee codes and the associated amount for the targeted
 investment lot.
 
-![A screenshot of a computer Description automatically
-generated](media/image4.png){width="5.584027777777778in"
-height="2.095833333333333in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture4.png](../../assets/img/SpecificCostFeesCapitalization/Picture4.png)
 
 >  
 >
@@ -137,15 +129,11 @@ the *\'investment line detail*\' page (amount per lot).
 
 >  
 
-![A screenshot of a computer Description automatically
-generated](media/image5.png){width="6.268055555555556in"
-height="1.632638888888889in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture5.png](../../assets/img/SpecificCostFeesCapitalization/Picture5.png)
 
 >  
 
-![A screenshot of a computer Description automatically
-generated](media/image6.png){width="6.268055555555556in"
-height="1.1694444444444445in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture6.png](../../assets/img/SpecificCostFeesCapitalization/Picture6.png)
 
 >  
 
@@ -154,9 +142,7 @@ the Income Cost Entry.
 
 >  
 
-![A close-up of a computer screen Description automatically
-generated](media/image7.png){width="6.268055555555556in"
-height="1.117361111111111in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture7.png](../../assets/img/SpecificCostFeesCapitalization/Picture7.png)
 
 >  
 
@@ -169,9 +155,7 @@ be booked in a General Ledger account specified by you). This step is
 done by clicking on the *\'Line\' \--\> \'Line Details\'.* Note that a
 fee that is expensed is set up with the type = fees.
 
-![A screenshot of a computer Description automatically
-generated](media/image8.png){width="4.735916447944007in"
-height="0.9531999125109362in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture8.png](../../assets/img/SpecificCostFeesCapitalization/Picture8.png)
 
 >  
 
@@ -182,9 +166,7 @@ per each lot.
 
 >  
 >
-> ![A screenshot of a computer Description automatically
-> generated](media/image9.png){width="4.887666229221347in"
-> height="1.5175317147856517in"}
+>![/assets/img/SpecificCostFeesCapitalization/Picture9.png](../../assets/img/SpecificCostFeesCapitalization/Picture9.png)
 >
 >  
 >

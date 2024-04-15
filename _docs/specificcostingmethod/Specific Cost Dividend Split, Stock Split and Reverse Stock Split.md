@@ -30,9 +30,7 @@ three options below.
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image1.png){width="2.3367891513560806in"
-height="1.2159995625546807in"}
+![/assets/img/DividentSplit/image001.png](../../assets/img/DividentSplit/image001.png)
 
 >  
 
@@ -47,9 +45,7 @@ height="1.2159995625546807in"}
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image2.png){width="6.268055555555556in"
-height="1.7583333333333333in"}
+![/assets/img/DividentSplit/image003.png](../../assets/img/DividentSplit/image003.png)
 
  
 
@@ -59,9 +55,7 @@ height="1.7583333333333333in"}
 
 Equities - Back Office
 
-![A screenshot of a computer Description automatically
-generated](media/image3.png){width="6.268055555555556in"
-height="2.2222222222222223in"}
+![/assets/img/DividentSplit/image004.png](../../assets/img/DividentSplit/image004.png)
 
  
 
@@ -69,9 +63,7 @@ height="2.2222222222222223in"}
 
  
 
-![A close-up of a white background Description automatically
-generated](media/image4.png){width="6.268055555555556in"
-height="0.84375in"}
+![/assets/img/DividentSplit/image006.png](../../assets/img/DividentSplit/image006.png)
 
  
 
@@ -81,9 +73,7 @@ Investment Ledger Entries
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image5.png){width="6.268055555555556in"
-height="1.0430555555555556in"}
+![/assets/img/DividentSplit/image008.png](../../assets/img/DividentSplit/image008.png)
 
  
 
@@ -91,9 +81,7 @@ Investment Cost Entry
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image6.png){width="6.268055555555556in"
-height="1.1993055555555556in"}
+![/assets/img/DividentSplit/image010.png](../../assets/img/DividentSplit/image010.png)
 
  
 
@@ -123,10 +111,7 @@ Equities - Back Office
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image7.png){width="6.268055555555556in"
-height="2.5319444444444446in"}
-
+![/assets/img/DividentSplit/image012.png](../../assets/img/DividentSplit/image012.png)
  
 
 **Report**
@@ -138,9 +123,7 @@ Quantity.
 
  
 
-![A close-up of a computer screen Description automatically
-generated](media/image8.png){width="6.268055555555556in"
-height="1.9020833333333333in"}
+![/assets/img/DividentSplit/image014.png](../../assets/img/DividentSplit/image014.png)
 
  
 
@@ -154,17 +137,13 @@ Purchase = 298.01 USD is calculated as follows:
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image9.png){width="6.268055555555556in"
-height="1.0083333333333333in"}
+![/assets/img/DividentSplit/image016.png](../../assets/img/DividentSplit/image016.png)
 
  
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image10.png){width="6.268055555555556in"
-height="2.765277777777778in"}
+![/assets/img/DividentSplit/image018.png](../../assets/img/DividentSplit/image018.png)
 
  
 
@@ -179,9 +158,7 @@ negative quantity.
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image11.png){width="6.268055555555556in"
-height="2.967361111111111in"}
+![/assets/img/DividentSplit/image020.png](../../assets/img/DividentSplit/image020.png)
 
  
 
@@ -194,20 +171,14 @@ Quantity.
 
  
 
-![A close-up of a computer screen Description automatically
-generated](media/image12.png){width="6.268055555555556in"
-height="1.926388888888889in"}
+![/assets/img/DividentSplit/image022.png](../../assets/img/DividentSplit/image022.png)
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image13.png){width="6.268055555555556in"
-height="1.0645833333333334in"}
+![/assets/img/DividentSplit/image024.png](../../assets/img/DividentSplit/image024.png)
 
  
 
  
 
-![A screenshot of a computer Description automatically
-generated](media/image14.png){width="6.268055555555556in"
-height="3.134027777777778in"}
+![/assets/img/DividentSplit/image025.png](../../assets/img/DividentSplit/image025.png)
