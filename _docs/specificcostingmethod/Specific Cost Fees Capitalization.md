@@ -26,7 +26,6 @@ how to capitalize fees when using the specific costing method.
 
 -   Specific.
 
-  
 
 This functionality is available for the following asset classes:
 
@@ -42,7 +41,6 @@ This functionality is available for the following asset classes:
 
 -   Preferred Shares.
 
-  
 
 -   **Understanding Fees Capitalization in Elysys**
 
@@ -50,22 +48,18 @@ This functionality is available for the following asset classes:
  recognizing and incorporating various fees associated with an asset or
  project into its overall cost.
 
-  
 
  Our Elysys module offers support for the capitalization of fees
  associated with investments for all the costing methods mentioned
  above.
 
-  
 
 This user guide describes the fees capitalization using the **Specific
 costing method**.
 
-  
 
 **Getting Started**
 
-  
 
 -   **Logging In**
 
@@ -75,11 +69,9 @@ costing method**.
  *Investment General Setup* functionality. This page can also be
  accessed via the search functionality from the top right screen.
 
-  
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture1.png](../../assets/img/SpecificCostFeesCapitalization/Picture1.png)
 
-  
 
 -   **Investment General Setup**
 
@@ -87,13 +79,11 @@ costing method**.
  that says \'*Costing Method.\'* This is your setup point for defining
  the costing method you want at the company level.
 
-  
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture2.png](../../assets/img/SpecificCostFeesCapitalization/Picture2.png)
 
 **Function Overview**
 
-  
 
 Once you finished the setup, create an investment contract.
 
@@ -110,43 +100,34 @@ Lot\'* page.
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture3.png](../../assets/img/SpecificCostFeesCapitalization/Picture3.png)
 
-  
 
 Then, add the fee codes and the associated amount for the targeted
 investment lot.
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture4.png](../../assets/img/SpecificCostFeesCapitalization/Picture4.png)
 
-  
 
-  
 
 After posting, the fee amounts can be found in the *\'Investment ledger
 entry\'* (the average cost amount), while the split per lot is found in
 the *\'investment line detail*\' page (amount per lot).
 
-  
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture5.png](../../assets/img/SpecificCostFeesCapitalization/Picture5.png)
 
-  
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture6.png](../../assets/img/SpecificCostFeesCapitalization/Picture6.png)
 
-  
 
 The capitalized fees are booked in the General Ledger accounts and in
 the Income Cost Entry.
 
-  
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture7.png](../../assets/img/SpecificCostFeesCapitalization/Picture7.png)
 
-  
 
 **Notes (expensed fees scenario)**
 
-  
 
 You have the possibility to add fees that are expensed (the amount will
 be booked in a General Ledger account specified by you). This step is
@@ -155,14 +136,12 @@ fee that is expensed is set up with the type = fees.
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture8.png](../../assets/img/SpecificCostFeesCapitalization/Picture8.png)
 
-  
 
 If you try to add in this page a fee that will be capitalized (type =
 cost), there will be a warning message. This step helps in avoiding
 errors and ensures that you\'re fulfilling exactly the fee capitalizing
 per each lot.
 
-  
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture9.png](../../assets/img/SpecificCostFeesCapitalization/Picture9.png)
 

@@ -25,19 +25,16 @@ There are 3 \"Costing Methods\" available in Elysys Wealth:
 
 -   Specific
 
- 
 
 For \"Average Cost\" and \"FIFO\" costing methods, when processing a
 sales contract, the user cannot select the shares he would like to sell.
 This is predetermined automatically.
 
- 
 
 For the "Specific\" costing method, the user is allowed to select the
 shares (lots) he would like to sell, if there had been several purchases
 done before.
 
- 
 
 Investments Scope:
 
@@ -45,9 +42,7 @@ Investments Scope:
 
 -   Bonds, Preferred Shares, Structured Notes
 
- 
 
- 
 
 **[Setup:]{.underline}**
 
@@ -62,11 +57,9 @@ Costing Method
 -   Specify the \"**Threshold Warning Limit**\" (which triggers a
     warning message when reached).
 
- 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture1.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture1.png)
 
- 
 
 **[Purchases:]{.underline}**
 
@@ -74,29 +67,24 @@ When activating this \"Specific\" costing method, a new editable field
 is displayed in the FO Journal, MO and BO Contracts: \"**Acquisition
 Date**\".
 
- 
 
 This field is automatically filled-in (defaulted as \"Trade Date\") but
 is not mandatory at FO/MO levels.
 
 To post from BO to the ledgers, **this field must be filled in.**
 
- 
 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture2.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture2.png)
- 
 
 Note:
 
 This field is visible but not editable (greyed-out) for \"Average\" and
 \"FIFO\" costing methods.
 
- 
 
 **<u>Sales:</u>**
 
- 
 
 In the FO Journal, the users specify the total quantity to be sold and
 the unit price, as usual.
@@ -109,18 +97,15 @@ the unit price, as usual.
 **(However Front Office Posting = \"Skip Mid & Back Office\" must not be
 used)**
 
- 
 
 In MO Contract, the users specify the total quantity to be sold and the
 unit price, as usual. The Contract is sent to BO.
 
- 
 
 On BO level, the users specify the total quantity to be sold and the
 unit price as well, then a new window (**\"Investment Lot\"**) will be
 disclosed when trying to run a test report or to post the contract:
 
- 
 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture3.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture3.png)
@@ -136,21 +121,17 @@ quantities and amounts)
     Quantity disclosed at the bottom, so that the remaining quantity is
     0.
 
- 
 
 Otherwise, error messages will appear:
 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture4.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture4.png)
 
- 
 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture5.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture5.png)
 
- 
 
- 
 
 A new field has been added in this table: \"**ST/LT PNL**\" (only shown
 if Costing Method = Specific Lot or FIFO)
@@ -162,7 +143,6 @@ Values are populated according to the following rule:
 
 -   ELSE (if Greater than \"Threshold Period\") =\> \"**Long Term\"**
 
- 
 
 This field is editable and user can modify the value if necessary
 (**\"Short Term\"** or \"**Long Term\"**)
@@ -170,7 +150,6 @@ This field is editable and user can modify the value if necessary
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture6.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture6.png)
 
- 
 
 An additional warning message has been added when validating the
 Quantity:
@@ -182,8 +161,7 @@ Quantity:
     XXX days. Please verify the \"ST/LT PNL\" field before posting**.\"
 
 -   Where XXX = (Sale Date -- Acquisition Date)
-
->  
+ 
 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture7.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture7.png)
@@ -198,21 +176,17 @@ The values will be reported to the following ledgers/sub-ledgers:
 
 -   Income Cost Entry
 
- 
 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture8.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture8.png)
 
- 
 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture9.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture9.png)
 
- 
 
 
 ![/assets/img/SpecificCostLongTermShortTermAllocation/Picture10.png](../../assets/img/SpecificCostLongTermShortTermAllocation/Picture10.png)
 
- 
 
  
