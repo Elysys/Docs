@@ -206,3 +206,44 @@ Dimension -\> IC B (Paying Company)
 Reversal can be processed from any company involved and reversal in one
 entity triggers the creation of ledger entries and reversals in both
 companies simultaneously.
+
+## Automation of Intercompany Dimension
+
+The set-up allows dimensions to be automatically displayed in the Cash
+Transfer and Intercompany Payment Journals.
+
+# Investment General Setup {#investment-general-setup .unnumbered}
+
+Under General Fast Tab, the Intercompany Dimension is set up with
+INTERCO.
+
+![](../../assets/img/IntercoPaymentJournal/image017.png)
+
+Aggregate View Companies & Intercompany Code definition
+
+Here we assign the Intercompany Code that will be automatically
+populated for each entity involved in the ledgers. We can have one
+Intercompany Code per entity.
+
+It is a reference code that is used for consolidation purposes and helps
+with tracking the source, e.g., the names of the companies from and into
+which the transfers are made.
+
+![](../../assets/img/IntercoPaymentJournal/image018.png)
+
+Dimension Value
+
+Intercompany Codes are later selected as Dimension Values under
+Dimension Interco for each company involved in the transfer or
+intercompany payment.
+
+Dimension Values are user definable, but they are usually set to match
+the names of the Source and Target companies.
+
+Source Company -- IC A is set with Dimension Value IC B
+
+![](../../assets/img/IntercoPaymentJournal/image019.png)
+
+Target Company -- IC B is set with Dimension Value IC A
+
+![](../../assets/img/IntercoPaymentJournal/image020.png)

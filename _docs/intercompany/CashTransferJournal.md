@@ -44,8 +44,6 @@ IC B -- Target Company
 
 ### Intercompany Cash Transfer 
 
-a)  **Intercompany Cash Transfer Journal**
-
 > Path: Elysys Wealth -\> Toolkit -\> Transfer -\> Cash Transfer Journal
 
 ![](../../assets/img/CashTransferJournal/image001.png)
@@ -118,21 +116,21 @@ Notes:
 
 ![](../../assets/img/CashTransferJournal/image008.png)
 
-b)  **Cash Transfer Details** **FactBox**
+a)  Cash Transfer Details Fact Box
 
 FactBox displays available funds in source and target bank accounts. It
 is a useful point of reference before a journal is posted.
 
 ![](../../assets/img/CashTransferJournal/image009.png)
 
-c)  **Processing Journal**
+b)  Processing Journal
 
 Path: Cash Transfer Journal -\> Home -\> Post
 
 Posting the journal validates the transfer in both companies
 simultaneously.
 
-d)  **Posted Transfers**
+c)  Posted Transfers
 
 Path: Cash Transfer Journal -\> Archive -\> Posted Transfers
 
@@ -141,7 +139,7 @@ cash transfers posted across all entities.
 
 ![](../../assets/img/CashTransferJournal/image010.png)
 
-## Ledger Entries
+Ledger Entries
 
 a)  Source Company -- IC A
 
@@ -189,7 +187,7 @@ Notes:
     transaction belongs to which. The categories are user definable and
     are predefined in the Cashflow Classification Setup screen.  
 
-## Ledger Entries
+Ledger Entries
 
 ![](../../assets/img/CashTransferJournal/image015.png)
 > DB Target Bank Account 1,000.00   
@@ -200,8 +198,68 @@ Cashflow Classification -\> Intra Cash Transfer
 
 Intercompany Dimension -\> IC B
 
-## Reversal 
+Reversal 
 
 Reversal can be processed from any company involved and reversal in one
 entity triggers the creation of ledger entries and reversals in both
 companies simultaneously.
+
+## Automation of Intercompany Dimension
+
+The set-up allows dimensions to be automatically inserted in the Cash
+Transfer and Intercompany Payment Journals.
+
+### Investment General Setup
+
+Under General Fast Tab, the Intercompany Dimension is set up with
+INTERCO or similar dimension used for intercompany transactions
+tracking.
+
+![](../../assets/img/CashTransferJournal/image016.png)
+
+### Intercompany Code 
+
+In the Aggregate View Companies we assign the Intercompany Code that
+will be automatically populated for each entity involved in the ledgers.
+We can have one Intercompany Code per entity.
+
+It is a reference code that is used for consolidation purposes and helps
+with tracking the source, e.g., the names of the companies from and into
+which the transfers are made.
+
+![](../../assets/img/CashTransferJournal/image017.png)
+
+### Dimension Value
+
+Intercompany Codes are later selected as Dimension Values under
+Dimension INTERCO for each company involved in the transfer or
+intercompany payment.
+
+Dimension Values are user definable, but they are usually set to match
+the names of the Source and Target companies.
+
+Source Company -- IC A is set with Dimension Value IC B
+
+![](../../assets/img/CashTransferJournal/image018.png)
+
+Target Company -- IC B is set with Dimension Value IC A
+
+![](../../assets/img/CashTransferJournal/image019.png)
+
+### Example
+
+Transfer of 2,000.00 USD was made from company IC A to company IC B.
+![](../../assets/img/CashTransferJournal/image020.png)
+
+Based on the above setup, the INTERCO Dimension automatically populated
+IC B under Source Dimension and IC A under Target Dimension
+
+![](../../assets/img/CashTransferJournal/image021.png)
+
+Source Dimension
+
+![](../../assets/img/CashTransferJournal/image022.png)
+
+Target Dimension
+
+![](../../assets/img/CashTransferJournal/image023.png)
