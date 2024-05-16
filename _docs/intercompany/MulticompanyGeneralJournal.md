@@ -49,7 +49,7 @@ Dimensions -- IC B
 transaction belongs to. The categories are user definable and are
 predefined in the Cashflow Classification Setup screen. 
 
-![](../../assets/img/MulticompanyGeneralJournal/image00e5.png)
+![](../../assets/img/MulticompanyGeneralJournal/image005.png)
 
 ![](../../assets/img/MulticompanyGeneralJournal/image006.png)
 
