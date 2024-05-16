@@ -12,8 +12,6 @@ different entities.
 **Intracompany Cash Transfer** allows transferring funds between two
 different bank accounts of the same entity.
 
-## Notes
-
 -   **Cash Transfer Journal** can be processed from any company,
     regardless of the companies involved.
 
@@ -42,9 +40,9 @@ IC A -- Source Company
 
 IC B -- Target Company
 
-### Intercompany Cash Transfer 
+### 1. Intercompany Cash Transfer 
 
-> Path: Elysys Wealth -\> Toolkit -\> Transfer -\> Cash Transfer Journal
+Path: Elysys Wealth -\> Toolkit -\> Transfer -\> Cash Transfer Journal
 
 ![](../../assets/img/CashTransferJournal/image001.png)
 
@@ -90,7 +88,7 @@ Notes:
 
 ![](../../assets/img/CashTransferJournal/image004.png)
 
--   **INV Signatory Card  **
+    -   **INV Signatory Card**
 
 ![](../../assets/img/CashTransferJournal/image005.png)
 
@@ -145,9 +143,8 @@ a)  Source Company -- IC A
 
 ![](../../assets/img/CashTransferJournal/image011.png)
 
-> DB Interim Bank Account 1,000.00   
->
-> CR Main Bank Account 1,000.00 
+DB Interim Bank Account 1,000.00
+CR Main Bank Account 1,000.00 
 
 Cashflow Classification -\> Interco Cash Transfer
 
@@ -157,15 +154,14 @@ b)  Target Company -- IC B
 
 ![](../../assets/img/CashTransferJournal/image012.png)
 
-> DB Main Bank Account 1,000.00   
->
-> CR Interim Bank Account 1,000.00 
+DB Main Bank Account 1,000.00   
+CR Interim Bank Account 1,000.00 
 
 Cashflow Classification -\> Interco Cash Transfer
 
 Intercompany Dimension -\> IC A (Source Company) 
 
-### Intracompany Cash Transfer 
+### 2. Intracompany Cash Transfer 
 
 **Intracompany Cash Transfer** within the Cash Transfer Journal allows
 transferring funds between two different Bank Accounts of the same
@@ -190,9 +186,9 @@ Notes:
 Ledger Entries
 
 ![](../../assets/img/CashTransferJournal/image015.png)
-> DB Target Bank Account 1,000.00   
->
-> CR Source Bank Account 1,000.00 
+
+DB Target Bank Account 1,000.00   
+CR Source Bank Account 1,000.00 
 
 Cashflow Classification -\> Intra Cash Transfer
 
@@ -204,12 +200,12 @@ Reversal can be processed from any company involved and reversal in one
 entity triggers the creation of ledger entries and reversals in both
 companies simultaneously.
 
-## Automation of Intercompany Dimension
+## 3. Automation of Intercompany Dimension
 
 The set-up allows dimensions to be automatically inserted in the Cash
 Transfer and Intercompany Payment Journals.
 
-### Investment General Setup
+### a. Investment General Setup
 
 Under General Fast Tab, the Intercompany Dimension is set up with
 INTERCO or similar dimension used for intercompany transactions
@@ -217,7 +213,7 @@ tracking.
 
 ![](../../assets/img/CashTransferJournal/image016.png)
 
-### Intercompany Code 
+### b. Intercompany Code 
 
 In the Aggregate View Companies we assign the Intercompany Code that
 will be automatically populated for each entity involved in the ledgers.
@@ -229,7 +225,7 @@ which the transfers are made.
 
 ![](../../assets/img/CashTransferJournal/image017.png)
 
-### Dimension Value
+### c. Dimension Value
 
 Intercompany Codes are later selected as Dimension Values under
 Dimension INTERCO for each company involved in the transfer or
@@ -246,7 +242,7 @@ Target Company -- IC B is set with Dimension Value IC A
 
 ![](../../assets/img/CashTransferJournal/image019.png)
 
-### Example
+### d. Example
 
 Transfer of 2,000.00 USD was made from company IC A to company IC B.
 ![](../../assets/img/CashTransferJournal/image020.png)

@@ -38,19 +38,19 @@ IC A -- Target Company
 
 IC B -- Paying Company
 
-### Intercompany Payments 
+### I. Intercompany Payments 
 
 a)  **Purchase Invoice**
 
-> Purchase Invoice in amount of USD 1,000.00 is posted in Company **IC
-> A**
+Purchase Invoice in amount of USD 1,000.00 is posted in Company **IC
+A**
 
 ![](../../assets/img/IntercoPaymentJournal/image001.png)
 
 b)  **Intracompany Payment Journal**
 
-> Path: Elysys Wealth -\> Toolkit -\> Transfer -\> Interco. Payment
-> Journal
+Path: Elysys Wealth -\> Toolkit -\> Transfer -\> Interco. Payment
+ Journal
 
 c)  **Suggest Payments**
 
@@ -139,6 +139,7 @@ fields:
     company.
 
 ![](../../assets/img/IntercoPaymentJournal/image010.png)
+
 f)  Transfer Instruction
 
 Transfer Instruction can be accessed via the journal before posting. It
@@ -176,7 +177,7 @@ Notes:
 -   If the **Summarize Per Vendor** is disabled, then **Applies-to Doc.
     Type and Applies-to Doc. No.** are generated.
 
-### Ledger Entries
+### II. Ledger Entries
 
 -   **Paying Company - IC B**
 
@@ -207,19 +208,19 @@ Reversal can be processed from any company involved and reversal in one
 entity triggers the creation of ledger entries and reversals in both
 companies simultaneously.
 
-## Automation of Intercompany Dimension
+## III. Automation of Intercompany Dimension
 
 The set-up allows dimensions to be automatically displayed in the Cash
 Transfer and Intercompany Payment Journals.
 
-# Investment General Setup {#investment-general-setup .unnumbered}
+# Investment General Setup
 
 Under General Fast Tab, the Intercompany Dimension is set up with
 INTERCO.
 
 ![](../../assets/img/IntercoPaymentJournal/image017.png)
 
-Aggregate View Companies & Intercompany Code definition
+## Aggregate View Companies & Intercompany Code definition
 
 Here we assign the Intercompany Code that will be automatically
 populated for each entity involved in the ledgers. We can have one
@@ -231,7 +232,7 @@ which the transfers are made.
 
 ![](../../assets/img/IntercoPaymentJournal/image018.png)
 
-Dimension Value
+## Dimension Value
 
 Intercompany Codes are later selected as Dimension Values under
 Dimension Interco for each company involved in the transfer or
