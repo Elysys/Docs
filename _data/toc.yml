@@ -28,6 +28,8 @@
       url: "docs/wealth/DividendsCoupons"  
     - title: "IFRS Year End Closing"
       url: "docs/wealth/IFRS YE Closing"  
+    - title: "Private Equity Funds"
+      url: "docs/wealth/PrivateEquityFunds"
 - title: Elysys Loans
   url: "docs/loans/LoansModule"
   links:
