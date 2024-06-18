@@ -25,6 +25,7 @@ Access the Investment General Setup and toggle on the **Auto-Adjust PE Market Va
 
 
 ## **How it works – use case**
+
 | | |
 | ---        |           --- |
 | Start fresh with a new fund with its market value being zero | ![/assets/img/PrivateEquityFunds/Picture2.png](../../assets/img/PrivateEquityFunds/Picture2.png) |
