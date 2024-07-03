@@ -6,9 +6,7 @@ tags:
 description:
 ---
 
-# Specific Costing Method
-
-## Specific Cost Dividend Split, Stock Split and Reverse Stock Split
+# Specific Cost Dividend Split, Stock Split and Reverse Stock Split
 
 ![/assets/img/ElysysWealthLogo.png](../../assets/img/ElysysWealthLogo.png) 
 
@@ -149,7 +147,7 @@ Quantity.
 
 ![/assets/img/DividentSplit/image025.png](../../assets/img/DividentSplit/image025.png)
 
-## Specific Cost Fees Capitalization
+# Specific Cost Fees Capitalization
 
 This document is accompanying the **Elysys Wealth** module, and it has
 been created for the purpose of providing users with brief guidance on
@@ -287,7 +285,7 @@ per each lot.
 
 ![/assets/img/SpecificCostFeesCapitalization/Picture9.png](../../assets/img/SpecificCostFeesCapitalization/Picture9.png)
 
-## Specific Cost Long Term Short Term Allocation
+# Specific Cost Long Term Short Term Allocation
 
 This document is accompanying the **Elysys Wealth** module, and it has
 been created for the purpose of providing users with brief guidance on
