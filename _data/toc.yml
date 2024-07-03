@@ -30,6 +30,8 @@
       url: "docs/wealth/IFRS YE Closing"  
     - title: "Private Equity Funds"
       url: "docs/wealth/PrivateEquityFunds"
+    - title: "Specific Costing Method"
+      url: "docs/wealth/Specific Costing Method"
 - title: Elysys Loans
   url: "docs/loans/LoansModule"
   links:
