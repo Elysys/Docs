@@ -42,8 +42,7 @@ option.**
 | | |
 | ---        |           --- |
 | Search for the **Close Income Statement** | ![/assets/img/MonthandYearEndClosing/Picture6.png](../../assets/img/MonthandYearEndClosing/Picture6.png) |
-| On the **Options tab**, fill in the fields as described in the following table. <br> We can run the Close Income Statement batch twice: <br> - First with the Post Retained Earnings Acc = Balance. Result: **different lines** with each different <br> - Secondly, with the  Post Retained Earnings Acc = Details: 
-Result: **one line with a lamp sum** | ![/assets/img/MonthandYearEndClosing/Picture7.png](../../assets/img/MonthandYearEndClosing/Picture7.png) |
+| On the **Options tab**, fill in the fields as described in the following table. <br> We can run the Close Income Statement batch twice: <br><br> - First with the Post Retained Earnings Acc = Balance. Result: **different lines** with each different <br><br> - Secondly, with the  Post Retained Earnings Acc = Details: <br> <br> Result: **one line with a lamp sum** | ![/assets/img/MonthandYearEndClosing/Picture7.png](../../assets/img/MonthandYearEndClosing/Picture7.png) |
 | The system suggests all GL entries to be posted for the year that was closed. <br> Navigate to the general journal batch and choose the **Post** action. | ![/assets/img/MonthandYearEndClosing/Picture8.png](../../assets/img/MonthandYearEndClosing/Picture8.png) |
 | The entries will be processed in the General Ledger. | ![/assets/img/MonthandYearEndClosing/Picture9.png](../../assets/img/MonthandYearEndClosing/Picture9.png) ![/assets/img/MonthandYearEndClosing/Picture10.png](../../assets/img/MonthandYearEndClosing/Picture10.png) |
 
