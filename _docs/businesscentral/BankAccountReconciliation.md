@@ -1,3 +1,10 @@
+---
+title: Bank Account Reconciliation
+tags: 
+ - Reconciliation
+description: 
+---
+
 ***Elysys Wealth -- Manual Bank Account Reconciliation***
 
 Manual bank account reconciliation in Microsoft Dynamics 365 Business
