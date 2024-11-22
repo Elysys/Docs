@@ -34,10 +34,7 @@ Fiscal year closing involves the following steps:
 | ---        |           --- |
 | Search for the **Accounting Periods** | ![/assets/img/MonthandYearEndClosing/Picture2.png](../../assets/img/MonthandYearEndClosing/Picture2.png) |
 | Create a new year and accounting period | ![/assets/img/MonthandYearEndClosing/Picture3.png](../../assets/img/MonthandYearEndClosing/Picture3.png)|
-| Close an accounting period by selecting the accounting period, and then choose the **Close Year** action.
-The field **Closed** will be ticked and the year locked.
-**Note**: even if the year is closed, the user still can process transactions.
-| ![/assets/img/MonthandYearEndClosing/Picture4.png](../../assets/img/MonthandYearEndClosing/Picture4.png) ![/assets/img/MonthandYearEndClosing/Picture5.png](../../assets/img/MonthandYearEndClosing/Picture5.png)|
+| Close an accounting period by selecting the accounting period, and then choose the **Close Year** action. <br> The field **Closed** will be ticked and the year locked. <br> **Note**: even if the year is closed, the user still can process transactions. | ![/assets/img/MonthandYearEndClosing/Picture4.png](../../assets/img/MonthandYearEndClosing/Picture4.png) ![/assets/img/MonthandYearEndClosing/Picture5.png](../../assets/img/MonthandYearEndClosing/Picture5.png)|
 
 **Generating a year-end closing entry using the Close Income Statement
 option.**
