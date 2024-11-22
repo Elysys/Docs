@@ -8,7 +8,9 @@
     - title: "Dimensions"
       url: "docs/businesscentral/DimensionValues"
     - title: "Number Series"
-      url: "docs/businesscentral/NumberSeries"  
+      url: "docs/businesscentral/NumberSeries"
+    - title: "Bank Account Reconciliation"
+      url: "docs/busniesscentral/BankAccountReconciliation" 
 - title: Elysys Wealth
   url: "docs/wealth/SynchWealthwithBI"
   links:
