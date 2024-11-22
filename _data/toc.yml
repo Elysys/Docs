@@ -35,6 +35,8 @@
       links:
         - title: "Specific Cost Investment Transfer"
           url: "docs/wealth/SpecificCostInvestmentTransfer"
+    - title: "Month and Year End Closing"
+      url: "docs/wealth/MonthandYearEndClosing"
 - title: Elysys Loans
   url: "docs/loans/LoansModule"
   links:
