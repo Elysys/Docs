@@ -85,31 +85,8 @@ Microsoft documentation :
 
 | | |
 | ---        |           --- |
-| **Data required at month-end** | Currency Exchange Rates
-Market Prices |
-| **Transactions required at month-end** | General Journals / Payment Journal / Cash Receipt Journal…
-All trades & journals posted on Investments & Loans
--	Investment Contracts FO/MO/BO
--	Private Equity journal FO/MO/BO
--	Cash/Investment Transfers
--	Coupon Journal
--	Dividend Journal
--	Loan & Deposit Journal
-All the above must be settled using the Settlement Journal
-Apply entries for
--	Customers (Cash receipts and invoices)
--	Vendors (Payments and invoices) |
-| **Revaluation** | Portfolio Revaluation (IFRS mark to market)
-LUX GAAP Revaluation (lower of cost or market valuation)
-Forward Revaluation
-Future DS Valuation
-Settlement Revaluation
-Loan & Deposit Revaluation
-Business Central Adjust Exchange Rate
--	Banks,
--	Customers,
--	Vendors
--	G/L Accounts for Additional Reporting Currency |
-| **Accruals** | Coupon Accrued Journal
-Loan & Deposit Accrued Interest Journal |
+| **Data required at month-end** | Currency Exchange Rates <br> Market Prices |
+| **Transactions required at month-end** | General Journals / Payment Journal / Cash Receipt Journal… <br> All trades & journals posted on Investments & Loans <br> -	Investment Contracts FO/MO/BO <br> -	Private Equity journal FO/MO/BO <br> -	Cash/Investment Transfers <br> -	Coupon Journal <br> -	Dividend Journal <br> -	Loan & Deposit Journal <br> All the above must be settled using the Settlement Journal <br> Apply entries for <br> -	Customers (Cash receipts and invoices) <br> -	Vendor (Payments and invoices) |
+| **Revaluation** | Portfolio Revaluation (IFRS mark to market) <br> LUX GAAP Revaluation (lower of cost or market valuation) <br> Forward Revaluation <br> Future DS Valuation <br> Settlement Revaluation <br> Loan & Deposit Revaluation <br> Business Central Adjust Exchange Rate <br> - Banks, <br> - Customers, <br> - Vendors <br> - G/L Accounts for Additional Reporting Currency |
+| **Accruals** | Coupon Accrued Journal <br> Loan & Deposit Accrued Interest Journal |
 | **Bank reconciliations** | Reconcile BC entries against Bank statements - once reconciled, the process cannot be reversed; the transactions must be corrected with a manual journal or manual contract. |
