@@ -32,6 +32,9 @@
       url: "docs/wealth/PrivateEquityFunds"
     - title: "Specific Costing Method"
       url: "docs/wealth/Specific Costing Method"
+      links:
+        - title: "Specific Cost Investment Transfer"
+          url: "docs/wealth/SpecificCostInvestmentTransfer"
 - title: Elysys Loans
   url: "docs/loans/LoansModule"
   links:
