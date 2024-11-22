@@ -35,9 +35,7 @@ Fiscal year closing involves the following steps:
 | Search for the **Accounting Periods** | ![/assets/img/MonthandYearEndClosing/Picture2.png](../../assets/img/MonthandYearEndClosing/Picture2.png) |
 | Create a new year and accounting period | ![/assets/img/MonthandYearEndClosing/Picture3.png](../../assets/img/MonthandYearEndClosing/Picture3.png)|
 | Close an accounting period by selecting the accounting period, and then choose the **Close Year** action.
-
 The field **Closed** will be ticked and the year locked.
-
 **Note**: even if the year is closed, the user still can process transactions.
 | ![/assets/img/MonthandYearEndClosing/Picture4.png](../../assets/img/MonthandYearEndClosing/Picture4.png) ![/assets/img/MonthandYearEndClosing/Picture5.png](../../assets/img/MonthandYearEndClosing/Picture5.png)|
 
@@ -55,7 +53,6 @@ We can run the Close Income Statement batch twice:
 Result: **one line with a lamp sum**
 | ![/assets/img/MonthandYearEndClosing/Picture7.png](../../assets/img/MonthandYearEndClosing/Picture7.png) |
 | The system suggests all GL entries to be posted for the year that was closed.
-
 Navigate to the general journal batch and choose the **Post** action.
 | ![/assets/img/MonthandYearEndClosing/Picture8.png](../../assets/img/MonthandYearEndClosing/Picture8.png) |
 | The entries will be processed in the General Ledger. | ![/assets/img/MonthandYearEndClosing/Picture9.png](../../assets/img/MonthandYearEndClosing/Picture9.png) ![/assets/img/MonthandYearEndClosing/Picture10.png](../../assets/img/MonthandYearEndClosing/Picture10.png)|
