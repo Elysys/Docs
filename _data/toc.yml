@@ -10,7 +10,7 @@
     - title: "Number Series"
       url: "docs/businesscentral/NumberSeries"
     - title: "Bank Account Reconciliation"
-      url: "docs/businesscentral/BankAccountReconciliation" 
+      url: "docs/businesscentral/BankAccountReconciliation"
 - title: Elysys Wealth
   url: "docs/wealth/SynchWealthwithBI"
   links:
