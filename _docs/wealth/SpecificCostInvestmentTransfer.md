@@ -15,17 +15,17 @@ The investment transfer journal allows now users to automatically transfer the p
 ## **How to enable it**
 Access the **Investment Transfer Journal**
 
-![/assets/img/PrivateEquityFunds/image001.png](../../assets/img/PrivateEquityFunds/image001.png)
+![/assets/img/SpecificCostInvestmentTransfer/image001.png](../../assets/img/SpecificCostInvestmentTransfer/image001.png)
 
 
 ## **How it works – use case**
 
 | | |
 | ---        |           --- |
-| Start by adding the transaction details, knowing that the user will process the journal **a lot at a time** | ![/assets/img/PrivateEquityFunds/Picture1.png](../../assets/img/PrivateEquityFunds/Picture1.png) |
-| Once the necessary fields are populated, user will access the **Specific Cost ➔ Investment Lot** function from the application ribbon | ![/assets/img/PrivateEquityFunds/Picture2.png](../../assets/img/PrivateEquityFunds/Picture2.png)|
-| The user will add the **Sold Quantity** for any lot to be transferred and says **OK** | ![/assets/img/PrivateEquityFunds/Picture3.png](../../assets/img/PrivateEquityFunds/Picture3.png)|
-| The transferred lines will have the **Transfer Type** field populated in the **Investment Ledger Entry**  | ![/assets/img/PrivateEquityFunds/Picture4.png](../../assets/img/PrivateEquityFunds/Picture4.png)|
+| Start by adding the transaction details, knowing that the user will process the journal **a lot at a time** | ![/assets/img/SpecificCostInvestmentTransfer/Picture1.png](../../assets/img/SpecificCostInvestmentTransfer/Picture1.png) |
+| Once the necessary fields are populated, user will access the **Specific Cost ➔ Investment Lot** function from the application ribbon | ![/assets/img/SpecificCostInvestmentTransfer/Picture2.png](../../assets/img/SpecificCostInvestmentTransfer/Picture2.png)|
+| The user will add the **Sold Quantity** for any lot to be transferred and says **OK** | ![/assets/img/SpecificCostInvestmentTransfer/Picture3.png](../../assets/img/SpecificCostInvestmentTransfer/Picture3.png)|
+| The transferred lines will have the **Transfer Type** field populated in the **Investment Ledger Entry**  | ![/assets/img/SpecificCostInvestmentTransfer/Picture4.png](../../assets/img/SpecificCostInvestmentTransfer/Picture4.png)|
 
 After the transfer, each transferred lot will keep the same **Acquisition Date** as the initial lots
 

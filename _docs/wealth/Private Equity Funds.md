@@ -201,7 +201,7 @@ The following fields need to be filled in:
 -   Portfolio Code: specifies the contained/ bucket that will store the
     transaction,
 
--   Account Type: specify the 3^rd^ party. It can be a bank account/
+-   Account Type: specify the 3rd party. It can be a bank account/
     vendor or a customer,
 
 -   Cash Flow Concept: specify another level of detail, it has impact in
