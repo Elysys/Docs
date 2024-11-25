@@ -193,7 +193,7 @@ The following fields need to be filled in:
 
     -   Distribution: specifies the amount booked against a BS Account
         (transit account) as we don't know how to allocate i.e
-        dividend, capital return, fees, interest)
+        dividend, capital return, fees, interest
 
         -   The amount will be allocated afterwards using the Private
             Equity Reallocation journal,
@@ -247,7 +247,7 @@ The following fields need to be filled in:
 > booking a capital return, there is no write off of the unrealized
 > amount.*
 
-### 3. Private Equity Reallocation Journal {#private-equity-reallocation-journal .unnumbered}
+### 3. Private Equity Reallocation Journal
 
 > This journal is used to reallocate in/out commitment. As a
 > prerequisite, user must post a call having the ***Cash Flow Type =

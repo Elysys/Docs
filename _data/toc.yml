@@ -32,11 +32,12 @@
       url: "docs/wealth/IFRS YE Closing"  
     - title: "Private Equity Funds"
       url: "docs/wealth/Private Equity Funds"
+    - title: "Private Equity Funds - Automatically Adjusting the Market Value"
+      url: "docs/wealth/Private Equity Funds - Automatically Adjusting the Market Value"
     - title: "Specific Costing Method"
       url: "docs/wealth/Specific Costing Method"
-      links:
-        - title: "Specific Cost Investment Transfer"
-          url: "docs/wealth/SpecificCostInvestmentTransfer"
+      - title: "Specific Cost - Investment Transfer"
+        url: "docs/wealth/SpecificCostInvestmentTransfer"
     - title: "Month and Year End Closing"
       url: "docs/wealth/MonthandYearEndClosing"
 - title: Elysys Loans
