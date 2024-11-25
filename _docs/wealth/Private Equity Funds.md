@@ -160,9 +160,9 @@ The following fields need to be filled in:
 
 -   *Other fields are optional.*
 
-## 5. Journals & Posting procedures {#journals-posting-procedures .unnumbered}
+## 5. Journals & Posting procedures
 
-### 1. Front/ Mid/ Back-office Private Equity journals {#front-mid-back-office-private-equity-journals .unnumbered}
+### 1. Front/ Mid/ Back-office Private Equity journals
 
 > Transactions can be booked via the back-office journals (use can
 > access them by clicking on the green tiles from the home page), or by
@@ -216,7 +216,7 @@ The following fields need to be filled in:
 -   Amount ICY: specifies the cost (or the PnL) associated to the
     contract.
 
-### 2. Portfolio Revaluation {#portfolio-revaluation .unnumbered}
+### 2. Portfolio Revaluation
 
 > **Go to: Home ➔ Private Equity ➔ Valuation ➔ Button: Portfolio
 > Revaluation (or Home 🡪 Periodic Activities 🡪 Button: Portfolio
