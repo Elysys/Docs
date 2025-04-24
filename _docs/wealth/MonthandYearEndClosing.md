@@ -9,13 +9,13 @@ description:
 
 ![/assets/img/ElysysWealthLogo.png](../../assets/img/ElysysWealthLogo.png) 
 
-***Elysys Wealth -- Year End Closing***
+## ***Elysys Wealth -- Year End Closing***
 
 To evaluate profit and loss, a fiscal year closing report is provided at
 the end of each fiscal year. The month end activities are also included
 in the end.
 
-**Summary**
+## **Summary**
 
 Fiscal year closing involves the following steps:
 
@@ -28,7 +28,7 @@ Fiscal year closing involves the following steps:
 
 ![/assets/img/MonthandYearEndClosing/Picture1.png](../../assets/img/MonthandYearEndClosing/Picture1.png)
 
-**Closing the fiscal year using the Accounting Period option**
+## **Closing the fiscal year using the Accounting Period option**
 
 | | |
 | ---        |           --- |
@@ -79,7 +79,7 @@ option.**
 Microsoft documentation :
 *https://learn.microsoft.com/en-us/dynamics365/business-central/localfunctionality/italy/how-to-close-a-fiscal-year*
 
-**Month End Processes**
+## **Month End Processes**
 
 ![/assets/img/MonthandYearEndClosing/Picture11.png](../../assets/img/MonthandYearEndClosing/Picture11.png)
 

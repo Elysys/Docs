@@ -7,7 +7,7 @@ description: The investment transfer journal allows now users to automatically t
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png) ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysLoansLogo.png)
 
-# ***Elysys Wealth – Investment Transfer Journal for Specific Cost***
+## ***Investment Transfer Journal for Specific Cost***
 
 The investment transfer journal allows now users to automatically transfer the position of an investment cross-company and intra-company, when the costing method is **Specific Cost**.
 

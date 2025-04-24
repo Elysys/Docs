@@ -160,6 +160,32 @@ Dimension -\> IC A (Source Company) 
 
 ![](../../assets/img/INVTransferJournal/image010.png)
 
+## ***Investment Transfer Journal for Specific Cost***
+
+The investment transfer journal allows now users to automatically transfer the position of an investment cross-company and intra-company, when the costing method is **Specific Cost**.
+
+
+### **How to enable it**
+Access the **Investment Transfer Journal**
+
+![/assets/img/SpecificCostInvestmentTransfer/image001.png](../../assets/img/SpecificCostInvestmentTransfer/image001.png)
+
+
+### **How it works – use case**
+
+| | |
+| ---        |           --- |
+| Start by adding the transaction details, knowing that the user will process the journal **a lot at a time** | ![/assets/img/SpecificCostInvestmentTransfer/Picture1.png](../../assets/img/SpecificCostInvestmentTransfer/Picture1.png) |
+| Once the necessary fields are populated, user will access the **Specific Cost ➔ Investment Lot** function from the application ribbon | ![/assets/img/SpecificCostInvestmentTransfer/Picture2.png](../../assets/img/SpecificCostInvestmentTransfer/Picture2.png)|
+| The user will add the **Sold Quantity** for any lot to be transferred and says **OK** | ![/assets/img/SpecificCostInvestmentTransfer/Picture3.png](../../assets/img/SpecificCostInvestmentTransfer/Picture3.png)|
+| The transferred lines will have the **Transfer Type** field populated in the **Investment Ledger Entry**  | ![/assets/img/SpecificCostInvestmentTransfer/Picture4.png](../../assets/img/SpecificCostInvestmentTransfer/Picture4.png)|
+
+After the transfer, each transferred lot will keep the same **Acquisition Date** as the initial lots
+
+> To transfer another lot, the user will repeat the steps above. You **can not transfer all lots at once**.
+For the **cross-company transfer**, it’s possible to do transfers only if the target company has the same costing method as the source company.
+
+
 ## Ledger Entries
 
 ![](../../assets/img/INVTransferJournal/image011.png)
@@ -173,3 +199,5 @@ Dimension -\> IC A (Source Company) 
 Reversal can be processed from any company involved and reversal in one
 entity triggers the creation of ledger entries and reversals in both
 companies simultaneously.
+
+

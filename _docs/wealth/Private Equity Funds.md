@@ -160,7 +160,7 @@ The following fields need to be filled in:
 
 -   *Other fields are optional.*
 
-## 5. Journals & Posting procedures
+## Journals & Posting procedures
 
 ### 1. Front/ Mid/ Back-office Private Equity journals
 
@@ -275,7 +275,7 @@ The following fields need to be filled in:
 Realised entries created when closing the position for an investment or
 the dividend amount.
 
-### INV Statistics
+### Statistics
 
 > When posting transactions using various Cash Flow Concept items, In/
 > Out of commitment, the impact will be tracked in the Statistics page,
