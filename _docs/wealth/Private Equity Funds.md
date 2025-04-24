@@ -7,7 +7,7 @@ description: The Auto-Adjust PE Market Value functionality allows users to autom
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png) ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysLoansLogo.png)
 
-***Elysys Wealth -- Private Equity Funds module***
+# ***Elysys Wealth -- Private Equity Funds module***
 
 This document describes the standard functionalities of the Private
 Equity Funds module within Elysys Wealth, as well as the required setup.
