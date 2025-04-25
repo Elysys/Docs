@@ -160,9 +160,9 @@ The following fields need to be filled in:
 
 -   *Other fields are optional.*
 
-## Journals & Posting procedures
+# Journals & Posting procedures
 
-### 1. Front/ Mid/ Back-office Private Equity journals
+## 1. Front/ Mid/ Back-office Private Equity journals
 
 > Transactions can be booked via the back-office journals (use can
 > access them by clicking on the green tiles from the home page), or by
@@ -216,7 +216,7 @@ The following fields need to be filled in:
 -   Amount ICY: specifies the cost (or the PnL) associated to the
     contract.
 
-### 2. Portfolio Revaluation
+## 2. Portfolio Revaluation
 
 > **Go to: Home ➔ Private Equity ➔ Valuation ➔ Button: Portfolio
 > Revaluation (or Home 🡪 Periodic Activities 🡪 Button: Portfolio
@@ -247,7 +247,7 @@ The following fields need to be filled in:
 > booking a capital return, there is no write off of the unrealized
 > amount.*
 
-### 3. Private Equity Reallocation Journal
+## 3. Private Equity Reallocation Journal
 
 > This journal is used to reallocate in/out commitment. As a
 > prerequisite, user must post a call having the ***Cash Flow Type =
@@ -260,9 +260,9 @@ The following fields need to be filled in:
 >
 > ![/assets/img/PrivateEquityFunds/Picture14.png](../../assets/img/PrivateEquityFunds/Picture14.png)
 
-## Navigate functions
+# Navigate functions
 
-### Investment Ledger Entries
+## Investment Ledger Entries
 
 > Shows all the ledger entries for the relevant "Investment Code". The
 > entries result from posting transactions via the Bond front/ mid/
@@ -270,12 +270,12 @@ The following fields need to be filled in:
 > this ledger: purchases, sales, issues, redemptions, market (gain/ loss
 > triggered by the revaluation process).
 
-### Income Ledger Entries
+## Income Ledger Entries
 
 Realised entries created when closing the position for an investment or
 the dividend amount.
 
-### Statistics
+## Statistics
 
 > When posting transactions using various Cash Flow Concept items, In/
 > Out of commitment, the impact will be tracked in the Statistics page,
@@ -286,7 +286,7 @@ the dividend amount.
 >
 > ![/assets/img/PrivateEquityFunds/Picture16.png](../../assets/img/PrivateEquityFunds/Picture16.png)
 
-### Underlying investments
+## Underlying investments
 
 > User can track information related to the underlying investment via
 > the Underlyings table. This can be accessed from the investment card.
@@ -299,29 +299,29 @@ the dividend amount.
 >
 > ![/assets/img/PrivateEquityFunds/Picture18.png](../../assets/img/PrivateEquityFunds/Picture18.png)
 
-### Dimensions
+## Dimensions
 
 Link Dimensions to the investment card. These Dimensions will be linked
 to all ledger entries.
 
-## **Private Equity Funds - Automatically Adjusting the Market Value**
+# **Private Equity Funds - Automatically Adjusting the Market Value**
 
 The **Auto-Adjust PE Market Value** functionality allows users to automatically update the market price of the private equity funds at the same time when posting transactions.
 
-### **Summary**
+## **Summary**
 -	When processing a **capital call** or **distribution** ➔ the market value increases at the date of the transaction by the amount added in the contract,
 -	When processing a **capital return** ➔ the market value decreases at the date of the transaction by the amount added in the contract,
 -	When processing a reallocation ➔ the market value is updated accordingly,
 -	When processing an **impairment** ➔ the market value increases at the date of the transaction by the amount added in the contract.
 -	When a **PnL** transaction or a **commitment** is recorded ➔ the market value doesn't change.
 
-### **How to enable it**
+## **How to enable it**
 Access the Investment General Setup and toggle on the **Auto-Adjust PE Market Value** field
 
 ![/assets/img/PrivateEquityFunds-AutomaticallyAdjustingtheMarketValue/image001.png](../../assets/img/PrivateEquityFunds-AutomaticallyAdjustingtheMarketValue/image001.png)
 
 
-### **How it works – use case**
+## **How it works – use case**
 
 | | |
 | ---        |           --- |
@@ -344,7 +344,7 @@ Access the Investment General Setup and toggle on the **Auto-Adjust PE Market Va
 
 *After processing a distribution, the reallocation is done via the reallocation journal. Once this is done, the valuation will be changed accordingly i.e capital return ➔ the valuation is decreased.
 
-### Deal Flow
+# Deal Flow
 
 > Another functionality used to track private equity funds information
 > is the deal flow function. It can be accessed by typing the key word

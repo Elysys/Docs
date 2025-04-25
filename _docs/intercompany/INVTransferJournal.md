@@ -1,6 +1,6 @@
 ---
-title: Intercompany INV Transfer Journal
-description: How to use the Intercompany INV Transfer Journal
+title: Investment Transfer Journal
+description: How to use the Investment Transfer Journal
 ---
 
 # INV Transfer Journal
