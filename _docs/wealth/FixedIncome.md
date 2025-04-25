@@ -176,7 +176,7 @@ The following fields need to be filled in:
 -   *Maturity Date:* Specifies the maturity date (the closing is a
     manual process).
 
-## Journals & Posting procedures 
+# Journals & Posting procedures 
 
 ### 1. Front/ Mid/ Back-office journals 
 
@@ -291,7 +291,7 @@ generated](../../assets/img/FixedIncome/image016.png)
 ![A screenshot of a computer Description automatically
 generated](../../assets/img/FixedIncome/image017.png)
 
-##  Navigate functions 
+#  Navigate functions 
 
 ### 1. Investment Ledger Entries
 

@@ -153,7 +153,7 @@ The following fields need to be filled in:
 
 -   *Other fields are optional.*
 
-## Journals & Posting procedures 
+# Journals & Posting procedures 
 
 ### 1. Front/ Mid/ Back-office journals 
 
@@ -281,7 +281,7 @@ Then run the \"Suggest Settlement\" function and enter the date
 to process all your settlement entries in the \"Settlement Date\"
 field.
 
-## 4. Navigate functions
+# Navigate functions
 
 ### Investment Ledger Entries
 
