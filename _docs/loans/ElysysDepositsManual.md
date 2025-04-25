@@ -48,7 +48,7 @@ New.*
     </div>
  </div>
 
-### **At least one portfolio needs exist to create a deposit**
+**At least one portfolio needs exist to create a deposit**
 
 <div style= "display:flex; align-items:stretch; align-content:space-between">
     <div class="text" style="flex: 1">
@@ -70,7 +70,7 @@ New.*
 Portfolio Dimension. This can be done from the *Bank Account card Bank
 Account Button: Dimensions*
 
-### **Each deposit is linked to an instrument type**
+**Each deposit is linked to an instrument type**
 
 The user must make sure the following settings had been set up: *Home
 Page ➔ Application Setup ➔ Instrument Type.*
@@ -89,7 +89,7 @@ Page ➔ Application Setup ➔ Instrument Type.*
 
 
 
-### **For each instrument type previously created, a set of accounts needs to be filled in**
+**For each instrument type previously created, a set of accounts needs to be filled in**
 
 The user must make sure the following settings had been set up: *Home
 Page ➔ Application Setup ➔ Loan and Deposits Posting Group.*
@@ -255,7 +255,7 @@ Fee Card for each type of fee.
 
 ![](../../assets/img/deposits manual/image16.png)
 
-## **Journals & Posting procedures**
+# **Journals & Posting procedures**
 
 ![](../../assets/img/deposits manual/image17.png)
 
@@ -389,7 +389,7 @@ functions to:
 -   Add Dimensions to several journal entries at once by selecting them
     (Button: DimensionsMultiple)
 
-## **Functions & Navigation**
+# **Functions & Navigation**
 
 ### **Renew with or without Capitalisation of Interest**
 

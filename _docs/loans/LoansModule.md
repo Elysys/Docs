@@ -100,7 +100,7 @@ modules are used for this purpose.
 The user must select on the Loan Card the Counterparty Type and
 Counterparty Account to be used.
 
-### 1\. Bank Counterparty
+### Bank Counterparty
 
  **Go to: Home Page ➔ Banks ➔ Button: New**
 
@@ -130,7 +130,7 @@ fill in:
     the bank account. The same portfolio must be selected on the Loan
     Card.
 
-### 2\. Customer Counterparty
+### Customer Counterparty
 
 **Go to: Home Page ➔ Payables & Receivables ➔ Customers Button: New**
 
@@ -151,7 +151,7 @@ Fill in the following mandatory fields:
 -   Currency Code: **Mandatory.** The currency of the loan will match
     the bank account's currency;
 
-## 3. Loan Card 
+### Loan Card 
 
 All necessary information required by the system to manage a loan are to
 be filled in on the Loan Card.
@@ -269,7 +269,7 @@ medium confidence](../../assets/img/LoansModule/image008.jpg)
 
 *Figure 5 Loan Card, Facility Management FastTab*
 
-## 4. Loan Types
+### Loan Types
 
 The loans module allows the management of the following types of loans:
 
@@ -285,7 +285,7 @@ The loans module allows the management of the following types of loans:
     repaid is unchanged by period and the interest repayment is
     variable.
 
-## 5. Postponement Types
+### Postponement Types
 
 Only loans type 2 can be postponed. There are 3 types of postponement:
 
@@ -301,7 +301,7 @@ Only loans type 2 can be postponed. There are 3 types of postponement:
 -   Partial -- payment interest only: only the interest amount will be
     paid for the periods preceding the Starting Date of Repayment
 
-## 6. Disbursements  
+### Disbursements  
 
 The Loan Disbursements page give the user an overview of all the capital
 increases and decreases occurred for the loan. The first line
@@ -317,7 +317,7 @@ generated](../../assets/img/LoansModule/image009.jpg)
 
 *Figure 6 Loan Disbursement page*
 
-## 7. Payment Schedule
+### Payment Schedule
 
 The Payment Schedule page gives the user a detailed list of past and
 future loan repayments. For each line the user can check the interest
@@ -344,7 +344,7 @@ confidence](../../assets/img/LoansModule/image010.jpg)
 
 *Figure 7 Payment Schedule page*
 
-## 8. Fees 
+### Fees 
 
 The system allows the booking of fees at any point during the life of
 the loan. Simply access the Fees page from the Loan Card. For each fee
@@ -367,7 +367,7 @@ Card for each type of fee.
 
 *Figure 8 Creation of a new Fee Card*
 
-## 9. Journals & Posting procedures 
+# Journals & Posting procedures 
 
 ![](media/image012.jpg)
 
@@ -538,7 +538,7 @@ Prerequisites:
 
  ![](media/image017.jpg)
 
-## 10. Functions & Navigation
+# Functions & Navigation
 
 ![](media/image018.jpg)
 
@@ -703,7 +703,7 @@ those in \"LP Investment\" page. Then the Facility functionality
 calculates the collateral balance, LP Investment balance, checks the
 remaining amount, and so on.
 
-## 10.Navigate functions 
+# Navigate functions 
 
 ### Loan & Deposit Ledger Entries
 
