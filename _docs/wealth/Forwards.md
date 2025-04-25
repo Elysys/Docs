@@ -218,7 +218,7 @@ Create a new Forward Subscription Contract.
  ![A group of black text Description automatically
  generated](../../assets/img/Forwards/image017.png)
 
-# 6. Navigate functions 
+# Navigate functions 
 
 ### Detailed View (Open Position)
 
