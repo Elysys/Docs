@@ -3,7 +3,7 @@ title: Investment Transfer Journal
 description: How to use the Investment Transfer Journal
 ---
 
-# INV Transfer Journal
+# Investment Transfer Journal
 ## Scope 
 
 **Intercompany Investment Transfer** allows transferring an asset
