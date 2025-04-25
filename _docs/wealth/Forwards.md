@@ -127,7 +127,7 @@ nominal account is required for the following account:
 
 No investment card is needed.
 
-## Journals & Posting procedures 
+# Journals & Posting procedures 
 
 ### 1. Subscription 
 
@@ -218,7 +218,7 @@ Create a new Forward Subscription Contract.
  ![A group of black text Description automatically
  generated](../../assets/img/Forwards/image017.png)
 
-## 6. Navigate functions 
+# 6. Navigate functions 
 
 ### Detailed View (Open Position)
 
