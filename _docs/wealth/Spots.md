@@ -122,9 +122,9 @@ nominal account is required for the following account:
 
 No investment card is needed.
 
-## 5. Journals & Posting procedures 
+# Journals & Posting procedures 
 
-### 1. Create a Spot contract 
+### Create a Spot contract 
 
  ![A screenshot of a computer Description automatically
  generated](../../assets/img/Spots/image006.png)
@@ -142,7 +142,7 @@ No investment card is needed.
  ![A group of text boxes Description automatically
  generated](../../assets/img/Spots/image008.png)
 
-## 6. Navigate functions 
+# Navigate functions 
 
 ### Detail View (Open Positions)
 
