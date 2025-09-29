@@ -1,13 +1,13 @@
 ---
-title: Futures_
+title: Futures
 tags: 
  - Elysys Wealth
- - Futures_
+ - Futures
 description: This document describes the standard functionalities of the Futures module within Elysys Wealth, as well the required setup.
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
-**_Elysys Wealth – Futures_**
+# ***Elysys Wealth – Futures***
 
 This document describes the standard functionalities of the Futures module within Elysys Wealth, as well the required setup.
 
@@ -15,8 +15,9 @@ Futures contracts are standardized agreements to buy or sell an asset at a futur
 
 ![/assets/img/Futures/Picture1.png](../../assets/img/Futures/Picture1.png)
 
+| | |
+| ---        |           --- |
 | Notes:The instructions found in this manual are best suited for the Elysys Back Office Role Center,Otherwise, various pages/ lists/ items can be accessed differently. | ![/assets/img/Futures/Picture2.png](../../assets/img/Futures/Picture2.png) |
-| --- | --- |
 
 ## Investment General Setup
 
@@ -101,12 +102,15 @@ Create a new Futures Contract by selecting the Futures green tile from the home 
 
 Test Preview to check the accounting impact that will be generated after posting. The contract will be posted in the Investment Ledger.
 ![/assets/img/Futures/Picture10.png](../../assets/img/Futures/Picture10.png)
+
 ![/assets/img/Futures/Picture11.png](../../assets/img/Futures/Picture11.png)
 
 This is how the closing contract looks like, after a revaluation was ran. The closure is done by accessing the **Home: Open positions 🡪 Futures: Function 🡪 Close Future.**
 
 ![/assets/img/Futures/Picture12.png](../../assets/img/Futures/Picture12.png)
+
 ![/assets/img/Futures/Picture13.png](../../assets/img/Futures/Picture13.png)
+
 ![/assets/img/Futures/Picture14.png](../../assets/img/Futures/Picture14.png)
 
 ### 2\. Portfolio Revaluation
