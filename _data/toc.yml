@@ -36,6 +36,8 @@
       url: "docs/wealth/Specific Costing Method"
     - title: "Month and Year End Closing"
       url: "docs/wealth/MonthandYearEndClosing"
+    - title: "Futures"
+      url: "docs/wealth/Futures"
 - title: Elysys Loans
   url: "docs/loans/LoansModule"
   links:
