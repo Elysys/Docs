@@ -211,8 +211,7 @@ Line section:
 
 -   Nominal: specifies the nominal amount,
 
--   Clean Price %: specifies the price (this is a percentage for Bonds,
-    and a unit price for Structured Notes, Preferred Shares),
+-   Clean Price %: specifies the price (this is a percentage for Bonds and Structured Notes, and a unit price for Preferred Shares),
 
 -   Amount ICY: specifies the cost or the net proceed amount (the system
     will automatically calculate the price if user will only add the
