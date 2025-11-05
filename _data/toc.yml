@@ -61,6 +61,8 @@
       url: "docs/wealth/SynchWealthwithBI"
     - title: "Data Dictionary"
       url: "docs/analytics/DataDictionaryAnalytics"
+    - title: "Elysys Analytics Standard Report Explained"
+      url: "docs/analytics/ElysysAnalyticsStandardReportExplained"
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
