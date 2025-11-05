@@ -152,6 +152,7 @@ When switching to **_Edit_** mode, the user can see the fields available from El
 ![](../../assets/img/ElysysAnalyticsStandardReportExplained/image009.png)
 
 **Report’s structure:**
+
 |  |  |
 | --- | --- |
 | First Page of the report – Trial Balance | ![](../../assets/img/ElysysAnalyticsStandardReportExplained/image010.png) |
