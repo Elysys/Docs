@@ -63,6 +63,8 @@
       url: "docs/analytics/DataDictionaryAnalytics"
     - title: "Elysys Analytics Standard Report Explained"
       url: "docs/analytics/ElysysAnalyticsStandardReportExplained"
+    - title: "Semantic Model Extension Creation"
+      url: "docs/analytics/SemanticModelExtensionCreation"
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
