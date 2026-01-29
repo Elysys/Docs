@@ -3,7 +3,7 @@ title: OAuth Setup for Business Central
 tags: 
  - OAuth
  - Setup
-description: How to start with the use of this BI solution
+description: Step-by-step instruction guide on OAuth configuration for Microsoft Dynamics 365 Business Central
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
