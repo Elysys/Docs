@@ -12,7 +12,7 @@
     - title: "Bank Account Reconciliation"
       url: "docs/businesscentral/BankAccountReconciliation"
     - title: "OAuth Setup"
-      url: "docs/analytics/BCOAuth"
+      url: "docs/businesscentral/BCOAuth"
 - title: Elysys Wealth
   url: "docs/wealth/SynchWealthwithBI"
   links:
