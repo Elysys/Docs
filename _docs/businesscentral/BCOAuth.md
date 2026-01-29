@@ -1,12 +1,13 @@
 ---
-title: Data Dictionary Analytics
+title: OAuth Setup for Business Central
 tags: 
- - Analytics
+ - OAuth
+ - Setup
 description: How to start with the use of this BI solution
 ---
 ![/assets/img/ElysysLoansLogo.png](../../assets/img/ElysysWealthLogo.png)
 
-# About this guide
+# OAuth Setup for Business Central
 
 This guide provides clear, step-by-step instructions on how to register an Azure App Registration and configure it for OAuth authentication with Microsoft Dynamics 365 Business Central. It covers creating the app registration, setting the required redirect URI, assigning delegated and/or application API permissions, granting admin consent, and generating a client secret for secure authentication.
 

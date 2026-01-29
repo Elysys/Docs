@@ -11,6 +11,8 @@
       url: "docs/businesscentral/NumberSeries"
     - title: "Bank Account Reconciliation"
       url: "docs/businesscentral/BankAccountReconciliation"
+    - title: "OAuth Setup"
+      url: "docs/analytics/BCOAuth"
 - title: Elysys Wealth
   url: "docs/wealth/SynchWealthwithBI"
   links:
@@ -65,8 +67,6 @@
       url: "docs/analytics/ElysysAnalyticsStandardReportExplained"
     - title: "Semantic Model Extension Creation"
       url: "docs/analytics/SemanticModelExtensionCreation"
-    - title: "Business Central OAuth Setup"
-      url: "docs/analytics/BCOAuth"
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
