@@ -11,8 +11,10 @@
       url: "docs/businesscentral/NumberSeries"
     - title: "Bank Account Reconciliation"
       url: "docs/businesscentral/BankAccountReconciliation"
+    - title: "OAuth Setup"
+      url: "docs/businesscentral/BCOAuth"
 - title: Elysys Wealth
-  url: "docs/wealth/SynchWealthwithBI"
+  url: "docs/wealth/EquityFundsAlternativeInvestments"
   links:
     - title: "Shares (Equity-like, Funds)"
       url: "docs/wealth/EquityFundsAlternativeInvestments"
@@ -24,6 +26,8 @@
       url: "docs/wealth/options_info"
     - title: "Accumulators / Decumulators"
       url: "docs/wealth/AccumulatorsDecumulators"  
+    - title: "Futures"
+      url: "docs/wealth/Futures"  
     - title: "Forwards"
       url: "docs/wealth/Forwards" 
     - title: "Spots"
@@ -38,8 +42,6 @@
       url: "docs/wealth/Specific Costing Method"
     - title: "Month and Year End Closing"
       url: "docs/wealth/MonthandYearEndClosing"
-    - title: "Futures"
-      url: "docs/wealth/Futures"
 - title: Elysys Loans
   url: "docs/loans/LoansModule"
   links:
@@ -57,18 +59,16 @@
     - title: "Cash Transfers"
       url: "docs/intercompany/CashTransferJournal" 
 - title: Elysys Analytics
-  url: "docs/analytics/DataDictionaryAnalytics"
+  url: "docs/analytics/ElysysAnalyticsStandardReportExplained"
   links:
-    - title: "Synch. Wealth with BI"
-      url: "docs/wealth/SynchWealthwithBI"
-    - title: "Data Dictionary"
-      url: "docs/analytics/DataDictionaryAnalytics"
     - title: "Elysys Analytics Standard Report Explained"
       url: "docs/analytics/ElysysAnalyticsStandardReportExplained"
+    - title: "Data Dictionary"
+      url: "docs/analytics/DataDictionaryAnalytics"
+    - title: "Synch. Wealth with BI"
+      url: "docs/wealth/SynchWealthwithBI"
     - title: "Semantic Model Extension Creation"
       url: "docs/analytics/SemanticModelExtensionCreation"
-    - title: "Business Central OAuth Setup"
-      url: "docs/analytics/BCOAuth"
 - title: Elysys Bank Gateway
   url: "docs/ebg/EBG User Guide"
   links:
