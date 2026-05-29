@@ -86,7 +86,7 @@ Mandatory fields to be filled on the investment card:
 ### Futures without Daily Settlement
 ![/assets/img/Futures/Picture7.png](../../assets/img/Futures/Picture7.png)
 
-## 5\. Journals & Posting procedures
+## Journals & Posting procedures
 
 ### 1\. Long or Short Contracts
 
@@ -136,7 +136,7 @@ The Futures **DS Valuation Journal** job will get you a similar result.
 
 ![/assets/img/Futures/Picture18.png](../../assets/img/Futures/Picture18.png)
 
-## 6\. Navigate functions
+## Navigate functions
 
 ### Detailed View (Open Position)
 
